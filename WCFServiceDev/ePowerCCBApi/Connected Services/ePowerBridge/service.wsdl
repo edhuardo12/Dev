@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="ServicioEpower" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import namespace="http://tempuri.org/" />
+      <xsd:import namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import namespace="http://schemas.datacontract.org/2004/07/EpowerWSManagement" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IServicioEpower_SaveDocument_InputMessage">
+    <wsdl:part name="parameters" element="tns:SaveDocument" />
+  </wsdl:message>
+  <wsdl:message name="IServicioEpower_SaveDocument_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SaveDocumentResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicioEpower_SaveDocumentTest_InputMessage">
+    <wsdl:part name="parameters" element="tns:SaveDocumentTest" />
+  </wsdl:message>
+  <wsdl:message name="IServicioEpower_SaveDocumentTest_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SaveDocumentTestResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicioEpower_LoginePower_InputMessage">
+    <wsdl:part name="parameters" element="tns:LoginePower" />
+  </wsdl:message>
+  <wsdl:message name="IServicioEpower_LoginePower_OutputMessage">
+    <wsdl:part name="parameters" element="tns:LoginePowerResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicioEpower_LoginePowerTest_InputMessage">
+    <wsdl:part name="parameters" element="tns:LoginePowerTest" />
+  </wsdl:message>
+  <wsdl:message name="IServicioEpower_LoginePowerTest_OutputMessage">
+    <wsdl:part name="parameters" element="tns:LoginePowerTestResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicioEpower_QueryDocument_InputMessage">
+    <wsdl:part name="parameters" element="tns:QueryDocument" />
+  </wsdl:message>
+  <wsdl:message name="IServicioEpower_QueryDocument_OutputMessage">
+    <wsdl:part name="parameters" element="tns:QueryDocumentResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicioEpower_QueryDocumentTest_InputMessage">
+    <wsdl:part name="parameters" element="tns:QueryDocumentTest" />
+  </wsdl:message>
+  <wsdl:message name="IServicioEpower_QueryDocumentTest_OutputMessage">
+    <wsdl:part name="parameters" element="tns:QueryDocumentTestResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IServicioEpower">
+    <wsdl:operation name="SaveDocument">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicioEpower/SaveDocument" message="tns:IServicioEpower_SaveDocument_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicioEpower/SaveDocumentResponse" message="tns:IServicioEpower_SaveDocument_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SaveDocumentTest">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicioEpower/SaveDocumentTest" message="tns:IServicioEpower_SaveDocumentTest_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicioEpower/SaveDocumentTestResponse" message="tns:IServicioEpower_SaveDocumentTest_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="LoginePower">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicioEpower/LoginePower" message="tns:IServicioEpower_LoginePower_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicioEpower/LoginePowerResponse" message="tns:IServicioEpower_LoginePower_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="LoginePowerTest">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicioEpower/LoginePowerTest" message="tns:IServicioEpower_LoginePowerTest_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicioEpower/LoginePowerTestResponse" message="tns:IServicioEpower_LoginePowerTest_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="QueryDocument">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicioEpower/QueryDocument" message="tns:IServicioEpower_QueryDocument_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicioEpower/QueryDocumentResponse" message="tns:IServicioEpower_QueryDocument_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="QueryDocumentTest">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicioEpower/QueryDocumentTest" message="tns:IServicioEpower_QueryDocumentTest_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicioEpower/QueryDocumentTestResponse" message="tns:IServicioEpower_QueryDocumentTest_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IServicioEpower" type="tns:IServicioEpower">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="SaveDocument">
+      <soap:operation soapAction="http://tempuri.org/IServicioEpower/SaveDocument" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SaveDocumentTest">
+      <soap:operation soapAction="http://tempuri.org/IServicioEpower/SaveDocumentTest" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LoginePower">
+      <soap:operation soapAction="http://tempuri.org/IServicioEpower/LoginePower" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LoginePowerTest">
+      <soap:operation soapAction="http://tempuri.org/IServicioEpower/LoginePowerTest" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="QueryDocument">
+      <soap:operation soapAction="http://tempuri.org/IServicioEpower/QueryDocument" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="QueryDocumentTest">
+      <soap:operation soapAction="http://tempuri.org/IServicioEpower/QueryDocumentTest" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ServicioEpower">
+    <wsdl:port name="BasicHttpBinding_IServicioEpower" binding="tns:BasicHttpBinding_IServicioEpower">
+      <soap:address location="http://localhost/CCBEPOWERWS/" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

@@ -1,0 +1,36 @@
+C:\WORK\EpowerWSManagement\EpowerWSManagement\bin\Debug\EpowerWSManagement.dll.config
+C:\WORK\EpowerWSManagement\EpowerWSManagement\bin\Debug\EpowerWSManagement.dll
+C:\WORK\EpowerWSManagement\EpowerWSManagement\bin\Debug\EpowerWSManagement.pdb
+C:\WORK\EpowerWSManagement\EpowerWSManagement\bin\Debug\BitMiracle.LibTiff.NET.dll
+C:\WORK\EpowerWSManagement\EpowerWSManagement\bin\Debug\Channel.dll
+C:\WORK\EpowerWSManagement\EpowerWSManagement\bin\Debug\eConditionBuilder.dll
+C:\WORK\EpowerWSManagement\EpowerWSManagement\bin\Debug\ePWS.dll
+C:\WORK\EpowerWSManagement\EpowerWSManagement\bin\Debug\eTree.dll
+C:\WORK\EpowerWSManagement\EpowerWSManagement\bin\Debug\ewsm.dll
+C:\WORK\EpowerWSManagement\EpowerWSManagement\bin\Debug\IDL.dll
+C:\WORK\EpowerWSManagement\EpowerWSManagement\bin\Debug\IIOPChannel.dll
+C:\WORK\EpowerWSManagement\EpowerWSManagement\bin\Debug\Interfaces.dll
+C:\WORK\EpowerWSManagement\EpowerWSManagement\bin\Debug\log4net.dll
+C:\WORK\EpowerWSManagement\EpowerWSManagement\bin\Debug\O2S.Components.PDF4NET.dll
+C:\WORK\EpowerWSManagement\EpowerWSManagement\bin\Debug\log4net.xml
+C:\WORK\EpowerWSManagement\EpowerWSManagement\bin\Debug\O2S.Components.PDF4NET.xml
+C:\WORK\EpowerWSManagement\EpowerWSManagement\obj\Debug\INS EpowerWS.csprojResolveAssemblyReference.cache
+C:\WORK\EpowerWSManagement\EpowerWSManagement\obj\Debug\EpowerWSManagement.dll
+C:\WORK\EpowerWSManagement\EpowerWSManagement\obj\Debug\EpowerWSManagement.pdb
+C:\HP Probook 6560b\Desarrollo-Vic\Ejemplos.WS.ePower\EpowerWSManagement-INSVALORES\EpowerWSManagement\bin\Debug\EpowerWSManagement.dll.config
+C:\HP Probook 6560b\Desarrollo-Vic\Ejemplos.WS.ePower\EpowerWSManagement-INSVALORES\EpowerWSManagement\bin\Debug\EpowerWSManagement.dll
+C:\HP Probook 6560b\Desarrollo-Vic\Ejemplos.WS.ePower\EpowerWSManagement-INSVALORES\EpowerWSManagement\bin\Debug\EpowerWSManagement.pdb
+C:\HP Probook 6560b\Desarrollo-Vic\Ejemplos.WS.ePower\EpowerWSManagement-INSVALORES\EpowerWSManagement\bin\Debug\log4net.dll
+C:\HP Probook 6560b\Desarrollo-Vic\Ejemplos.WS.ePower\EpowerWSManagement-INSVALORES\EpowerWSManagement\bin\Debug\log4net.xml
+C:\HP Probook 6560b\Desarrollo-Vic\Ejemplos.WS.ePower\EpowerWSManagement-INSVALORES\EpowerWSManagement\obj\Debug\EpowerWSManagement.dll
+C:\HP Probook 6560b\Desarrollo-Vic\Ejemplos.WS.ePower\EpowerWSManagement-INSVALORES\EpowerWSManagement\obj\Debug\EpowerWSManagement.pdb
+C:\HP Probook 6560b\Desarrollo-Vic\Ejemplos.WS.ePower\EpowerWSManagement-INSVALORES\EpowerWSManagement\obj\Debug\INS EpowerWS.csprojResolveAssemblyReference.cache
+C:\AppSoft\2020\EpowerWSManagement-INSVALORES\EpowerWSManagement\bin\Debug\EpowerWSManagement.dll.config
+C:\AppSoft\2020\EpowerWSManagement-INSVALORES\EpowerWSManagement\bin\Debug\EpowerWSManagement.dll
+C:\AppSoft\2020\EpowerWSManagement-INSVALORES\EpowerWSManagement\bin\Debug\EpowerWSManagement.pdb
+C:\AppSoft\2020\EpowerWSManagement-INSVALORES\EpowerWSManagement\bin\Debug\log4net.dll
+C:\AppSoft\2020\EpowerWSManagement-INSVALORES\EpowerWSManagement\bin\Debug\log4net.xml
+C:\AppSoft\2020\EpowerWSManagement-INSVALORES\EpowerWSManagement\obj\Debug\INS EpowerWS.csproj.CoreCompileInputs.cache
+C:\AppSoft\2020\EpowerWSManagement-INSVALORES\EpowerWSManagement\obj\Debug\INS EpowerWS.csproj.CopyComplete
+C:\AppSoft\2020\EpowerWSManagement-INSVALORES\EpowerWSManagement\obj\Debug\EpowerWSManagement.dll
+C:\AppSoft\2020\EpowerWSManagement-INSVALORES\EpowerWSManagement\obj\Debug\EpowerWSManagement.pdb

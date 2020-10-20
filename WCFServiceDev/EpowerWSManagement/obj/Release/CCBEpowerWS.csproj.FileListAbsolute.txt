@@ -1,0 +1,15 @@
+C:\Users\edhua\Downloads\CCBePowerWS\CCBePowerWS\EpowerWSManagement\obj\Release\CCBEpowerWS.csprojAssemblyReference.cache
+C:\Users\edhua\Downloads\CCBePowerWS\CCBePowerWS\EpowerWSManagement\obj\Release\CCBEpowerWS.csproj.CoreCompileInputs.cache
+C:\Users\edhua\Downloads\CCBePowerWS\CCBePowerWS\EpowerWSManagement\obj\Release\EpowerWSManagement.dll
+C:\Users\edhua\Downloads\CCBePowerWS\CCBePowerWS\EpowerWSManagement\obj\Release\EpowerWSManagement.pdb
+C:\Users\emendez\source\repos\WCFServiceDev\EpowerWSManagement\obj\Release\CCBEpowerWS.csprojAssemblyReference.cache
+C:\Users\emendez\source\repos\WCFServiceDev\EpowerWSManagement\obj\Release\CCBEpowerWS.csproj.CoreCompileInputs.cache
+C:\Users\emendez\source\repos\WCFServiceDev\EpowerWSManagement\obj\Release\EpowerWSManagement.dll
+C:\Users\emendez\source\repos\WCFServiceDev\EpowerWSManagement\obj\Release\EpowerWSManagement.pdb
+C:\Users\emendez\source\repos\WCFServiceDev\EpowerWSManagement\bin\Release\EpowerWSManagement.dll.config
+C:\Users\emendez\source\repos\WCFServiceDev\EpowerWSManagement\bin\Release\EpowerWSManagement.dll
+C:\Users\emendez\source\repos\WCFServiceDev\EpowerWSManagement\bin\Release\EpowerWSManagement.pdb
+C:\Users\emendez\source\repos\WCFServiceDev\EpowerWSManagement\bin\Release\log4net.dll
+C:\Users\emendez\source\repos\WCFServiceDev\EpowerWSManagement\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Users\emendez\source\repos\WCFServiceDev\EpowerWSManagement\bin\Release\log4net.xml
+C:\Users\emendez\source\repos\WCFServiceDev\EpowerWSManagement\obj\Release\CCBEpowerWS.csproj.CopyComplete

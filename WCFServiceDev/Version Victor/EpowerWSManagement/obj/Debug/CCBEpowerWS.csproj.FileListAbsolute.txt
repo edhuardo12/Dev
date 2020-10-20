@@ -1,0 +1,45 @@
+C:\AppSoft\2020\EpowerWSManagement-INSVALORES\EpowerWSManagement\bin\Debug\EpowerWSManagement.dll.config
+C:\AppSoft\2020\EpowerWSManagement-INSVALORES\EpowerWSManagement\bin\Debug\EpowerWSManagement.dll
+C:\AppSoft\2020\EpowerWSManagement-INSVALORES\EpowerWSManagement\bin\Debug\EpowerWSManagement.pdb
+C:\AppSoft\2020\EpowerWSManagement-INSVALORES\EpowerWSManagement\bin\Debug\log4net.dll
+C:\AppSoft\2020\EpowerWSManagement-INSVALORES\EpowerWSManagement\bin\Debug\Oracle.DataAccess.dll
+C:\AppSoft\2020\EpowerWSManagement-INSVALORES\EpowerWSManagement\bin\Debug\log4net.xml
+C:\AppSoft\2020\EpowerWSManagement-INSVALORES\EpowerWSManagement\obj\Debug\CCBEpowerWS.csproj.CoreCompileInputs.cache
+C:\AppSoft\2020\EpowerWSManagement-INSVALORES\EpowerWSManagement\obj\Debug\CCBEpowerWS.csproj.CopyComplete
+C:\AppSoft\2020\EpowerWSManagement-INSVALORES\EpowerWSManagement\obj\Debug\EpowerWSManagement.dll
+C:\AppSoft\2020\EpowerWSManagement-INSVALORES\EpowerWSManagement\obj\Debug\EpowerWSManagement.pdb
+C:\AppSoft\2020\EpowerWSManagement-INSVALORES\EpowerWSManagement\obj\Debug\CCBEpowerWS.csprojAssemblyReference.cache
+C:\AppSoft\2020\CCBePowerWS\EpowerWSManagement\bin\Debug\EpowerWSManagement.dll.config
+C:\AppSoft\2020\CCBePowerWS\EpowerWSManagement\bin\Debug\EpowerWSManagement.dll
+C:\AppSoft\2020\CCBePowerWS\EpowerWSManagement\bin\Debug\EpowerWSManagement.pdb
+C:\AppSoft\2020\CCBePowerWS\EpowerWSManagement\bin\Debug\log4net.dll
+C:\AppSoft\2020\CCBePowerWS\EpowerWSManagement\bin\Debug\Oracle.DataAccess.dll
+C:\AppSoft\2020\CCBePowerWS\EpowerWSManagement\bin\Debug\log4net.xml
+C:\AppSoft\2020\CCBePowerWS\EpowerWSManagement\obj\Debug\EpowerWSManagement.Properties.Resources.resources
+C:\AppSoft\2020\CCBePowerWS\EpowerWSManagement\obj\Debug\CCBEpowerWS.csproj.GenerateResource.cache
+C:\AppSoft\2020\CCBePowerWS\EpowerWSManagement\obj\Debug\CCBEpowerWS.csproj.CoreCompileInputs.cache
+C:\AppSoft\2020\CCBePowerWS\EpowerWSManagement\obj\Debug\CCBEpowerWS.csproj.CopyComplete
+C:\AppSoft\2020\CCBePowerWS\EpowerWSManagement\obj\Debug\EpowerWSManagement.dll
+C:\AppSoft\2020\CCBePowerWS\EpowerWSManagement\obj\Debug\EpowerWSManagement.pdb
+C:\Users\emendez\source\repos\WCFServiceDev\Version Victor\EpowerWSManagement\bin\Debug\EpowerWSManagement.dll.config
+C:\Users\emendez\source\repos\WCFServiceDev\Version Victor\EpowerWSManagement\bin\Debug\EpowerWSManagement.dll
+C:\Users\emendez\source\repos\WCFServiceDev\Version Victor\EpowerWSManagement\bin\Debug\EpowerWSManagement.pdb
+C:\Users\emendez\source\repos\WCFServiceDev\Version Victor\EpowerWSManagement\obj\Debug\EpowerWSManagement.Properties.Resources.resources
+C:\Users\emendez\source\repos\WCFServiceDev\Version Victor\EpowerWSManagement\obj\Debug\CCBEpowerWS.csproj.GenerateResource.cache
+C:\Users\emendez\source\repos\WCFServiceDev\Version Victor\EpowerWSManagement\obj\Debug\CCBEpowerWS.csproj.CoreCompileInputs.cache
+C:\Users\emendez\source\repos\WCFServiceDev\Version Victor\EpowerWSManagement\obj\Debug\CCBEpowerWS.csproj.CopyComplete
+C:\Users\emendez\source\repos\WCFServiceDev\Version Victor\EpowerWSManagement\obj\Debug\EpowerWSManagement.dll
+C:\Users\emendez\source\repos\WCFServiceDev\Version Victor\EpowerWSManagement\obj\Debug\EpowerWSManagement.pdb
+C:\Users\emendez\source\repos\WCFServiceDev\Version Victor\EpowerWSManagement\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\emendez\source\repos\WCFServiceDev\Version Victor\EpowerWSManagement\obj\Debug\CCBEpowerWS.csprojAssemblyReference.cache
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\Version Victor\EpowerWSManagement\bin\Debug\EpowerWSManagement.dll.config
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\Version Victor\EpowerWSManagement\bin\Debug\EpowerWSManagement.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\Version Victor\EpowerWSManagement\bin\Debug\EpowerWSManagement.pdb
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\Version Victor\EpowerWSManagement\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\Version Victor\EpowerWSManagement\obj\Debug\CCBEpowerWS.csprojAssemblyReference.cache
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\Version Victor\EpowerWSManagement\obj\Debug\EpowerWSManagement.Properties.Resources.resources
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\Version Victor\EpowerWSManagement\obj\Debug\CCBEpowerWS.csproj.GenerateResource.cache
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\Version Victor\EpowerWSManagement\obj\Debug\CCBEpowerWS.csproj.CoreCompileInputs.cache
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\Version Victor\EpowerWSManagement\obj\Debug\CCBEpowerWS.csproj.CopyComplete
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\Version Victor\EpowerWSManagement\obj\Debug\EpowerWSManagement.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\Version Victor\EpowerWSManagement\obj\Debug\EpowerWSManagement.pdb

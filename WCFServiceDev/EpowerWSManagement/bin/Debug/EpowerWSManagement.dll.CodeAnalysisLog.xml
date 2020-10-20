@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio 12.0\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="12.0">
+ <Targets>
+  <Target Name="C:\WORK\EpowerWSManagement\EpowerWSManagement\bin\Debug\EpowerWSManagement.dll">
+   <Modules>
+    <Module Name="epowerwsmanagement.dll">
+     <Namespaces>
+      <Namespace Name="EpowerWSManagement">
+       <Types>
+        <Type Name="Ewsm" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#delFullDocument(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotLockOnObjectsWithWeakIdentity" Category="Microsoft.Reliability" CheckId="CA2002" Status="Active" Created="2015-08-18 17:00:32Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="CriticalError" Path="c:\WORK\EpowerWSManagement\EpowerWSManagement\Bridge" File="Ewsm.cs" Line="1446">'Ewsm.delFullDocument(int, int, int, int, int)' establece un bloqueo en una referencia del tipo 'string'. Reemplácelo con un bloqueo contra un objeto que tenga una identidad sólida.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#doExecuteAsocDocQuery(System.Int32,System.Int32,System.Int32,Session.SoftRef,GSI.eTree,ePWS.WS.Type.FullText)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotLockOnObjectsWithWeakIdentity" Category="Microsoft.Reliability" CheckId="CA2002" Status="Active" Created="2015-08-18 17:00:32Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="CriticalError" Path="c:\WORK\EpowerWSManagement\EpowerWSManagement\Bridge" File="Ewsm.cs" Line="1027">'Ewsm.doExecuteAsocDocQuery(int, int, int, SoftRef, eTree, FullText)' establece un bloqueo en una referencia del tipo 'string'. Reemplácelo con un bloqueo contra un objeto que tenga una identidad sólida.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#doExecutePersonalQuery(System.Int32,System.Int32,System.Int32,System.Int32,System.String[],GSI.eTree,ePWS.WS.Type.FullText)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotLockOnObjectsWithWeakIdentity" Category="Microsoft.Reliability" CheckId="CA2002" Status="Active" Created="2015-08-18 17:00:32Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="CriticalError" Path="c:\WORK\EpowerWSManagement\EpowerWSManagement\Bridge" File="Ewsm.cs" Line="971">'Ewsm.doExecutePersonalQuery(int, int, int, int, string[], eTree, FullText)' establece un bloqueo en una referencia del tipo 'string'. Reemplácelo con un bloqueo contra un objeto que tenga una identidad sólida.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#doExecuteQuery(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.String[],GSI.eTree,ePWS.WS.Type.FullText)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotLockOnObjectsWithWeakIdentity" Category="Microsoft.Reliability" CheckId="CA2002" Status="Active" Created="2015-08-18 17:00:32Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="CriticalError" Path="c:\WORK\EpowerWSManagement\EpowerWSManagement\Bridge" File="Ewsm.cs" Line="914">'Ewsm.doExecuteQuery(int, int, int, int, int, string[], eTree, FullText)' establece un bloqueo en una referencia del tipo 'string'. Reemplácelo con un bloqueo contra un objeto que tenga una identidad sólida.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#doLogin(System.String,System.String,System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="RethrowToPreserveStackDetails" Category="Microsoft.Usage" CheckId="CA2200" Status="Active" Created="2015-08-18 17:00:32Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Error" Path="c:\WORK\EpowerWSManagement\EpowerWSManagement\Bridge" File="Ewsm.cs" Line="156">'Ewsm.doLogin(string, string, string)' vuelve a producir una excepción detectada y la especifica explícitamente como un argumento. Utilice 'throw' sin un argumento, para mantener la ubicación de la pila donde se provocó inicialmente la excepción.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#doLogout(System.Int32)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotLockOnObjectsWithWeakIdentity" Category="Microsoft.Reliability" CheckId="CA2002" Status="Active" Created="2015-08-18 17:00:32Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="CriticalError" Path="c:\WORK\EpowerWSManagement\EpowerWSManagement\Bridge" File="Ewsm.cs" Line="193">'Ewsm.doLogout(int)' establece un bloqueo en una referencia del tipo 'string'. Reemplácelo con un bloqueo contra un objeto que tenga una identidad sólida.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#existsRef(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotLockOnObjectsWithWeakIdentity" Category="Microsoft.Reliability" CheckId="CA2002" Status="Active" Created="2015-08-18 17:00:32Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="CriticalError" Path="c:\WORK\EpowerWSManagement\EpowerWSManagement\Bridge" File="Ewsm.cs" Line="1093">'Ewsm.existsRef(int, int, int, int, int, int)' establece un bloqueo en una referencia del tipo 'string'. Reemplácelo con un bloqueo contra un objeto que tenga una identidad sólida.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#fillAction(System.Int32,System.Int32)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotLockOnObjectsWithWeakIdentity" Category="Microsoft.Reliability" CheckId="CA2002" Status="Active" Created="2015-08-18 17:00:32Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="CriticalError" Path="c:\WORK\EpowerWSManagement\EpowerWSManagement\Bridge" File="Ewsm.cs" Line="1257">'Ewsm.fillAction(int, int)' establece un bloqueo en una referencia del tipo 'string'. Reemplácelo con un bloqueo contra un objeto que tenga una identidad sólida.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#getAppList(System.Int32)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotLockOnObjectsWithWeakIdentity" Category="Microsoft.Reliability" CheckId="CA2002" Status="Active" Created="2015-08-18 17:00:32Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="CriticalError" Path="c:\WORK\EpowerWSManagement\EpowerWSManagement\Bridge" File="Ewsm.cs" Line="247">'Ewsm.getAppList(int)' establece un bloqueo en una referencia del tipo 'string'. Reemplácelo con un bloqueo contra un objeto que tenga una identidad sólida.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#getAsocDocQueryList(System.Int32,System.Int32,System.Int32)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotLockOnObjectsWithWeakIdentity" Category="Microsoft.Reliability" CheckId="CA2002" Status="Active" Created="2015-08-18 17:00:32Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="CriticalError" Path="c:\WORK\EpowerWSManagement\EpowerWSManagement\Bridge" File="Ewsm.cs" Line="388">'Ewsm.getAsocDocQueryList(int, int, int)' establece un bloqueo en una referencia del tipo 'string'. Reemplácelo con un bloqueo contra un objeto que tenga una identidad sólida.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#getBlockRef(System.Int32,System.Int32)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotLockOnObjectsWithWeakIdentity" Category="Microsoft.Reliability" CheckId="CA2002" Status="Active" Created="2015-08-18 17:00:32Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="CriticalError" Path="c:\WORK\EpowerWSManagement\EpowerWSManagement\Bridge" File="Ewsm.cs" Line="1215">'Ewsm.getBlockRef(int, int)' establece un bloqueo en una referencia del tipo 'string'. Reemplácelo con un bloqueo contra un objeto que tenga una identidad sólida.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#getDocTypeFields(System.Int32,System.Int32,System.Int32,System.Int32)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotLockOnObjectsWithWeakIdentity" Category="Microsoft.Reliability" CheckId="CA2002" Status="Active" Created="2015-08-18 17:00:32Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="CriticalError" Path="c:\WORK\EpowerWSManagement\EpowerWSManagement\Bridge" File="Ewsm.cs" Line="539">'Ewsm.getDocTypeFields(int, int, int, int)' establece un bloqueo en una referencia del tipo 'string'. Reemplácelo con un bloqueo contra un objeto que tenga una identidad sólida.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#getDocTypeList(System.Int32,System.Int32)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotLockOnObjectsWithWeakIdentity" Category="Microsoft.Reliability" CheckId="CA2002" Status="Active" Created="2015-08-18 17:00:32Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="CriticalError" Path="c:\WORK\EpowerWSManagement\EpowerWSManagement\Bridge" File="Ewsm.cs" Line="298">'Ewsm.getDocTypeList(int, int)' establece un bloqueo en una referencia del tipo 'string'. Reemplácelo con un bloqueo contra un objeto que tenga una identidad sólida.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#getEntryForm(System.Int32,System.Int32,System.Int32,System.Int32)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotLockOnObjectsWithWeakIdentity" Category="Microsoft.Reliability" CheckId="CA2002" Status="Active" Created="2015-08-18 17:00:32Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="CriticalError" Path="c:\WORK\EpowerWSManagement\EpowerWSManagement\Bridge" File="Ewsm.cs" Line="797">'Ewsm.getEntryForm(int, int, int, int)' establece un bloqueo en una referencia del tipo 'string'. Reemplácelo con un bloqueo contra un objeto que tenga una identidad sólida.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#getEntryFormByQuery(System.Int32,System.Int32)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotLockOnObjectsWithWeakIdentity" Category="Microsoft.Reliability" CheckId="CA2002" Status="Active" Created="2015-08-18 17:00:32Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="CriticalError" Path="c:\WORK\EpowerWSManagement\EpowerWSManagement\Bridge" File="Ewsm.cs" Line="1278">'Ewsm.getEntryFormByQuery(int, int)' establece un bloqueo en una referencia del tipo 'string'. Reemplácelo con un bloqueo contra un objeto que tenga una identidad sólida.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#getEventActionByEF(System.Int32,System.Int32,System.Int32)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotLockOnObjectsWithWeakIdentity" Category="Microsoft.Reliability" CheckId="CA2002" Status="Active" Created="2015-08-18 17:00:32Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="CriticalError" Path="c:\WORK\EpowerWSManagement\EpowerWSManagement\Bridge" File="Ewsm.cs" Line="817">'Ewsm.getEventActionByEF(int, int, int)' establece un bloqueo en una referencia del tipo 'string'. Reemplácelo con un bloqueo contra un objeto que tenga una identidad sólida.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#getFullDocument(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotLockOnObjectsWithWeakIdentity" Category="Microsoft.Reliability" CheckId="CA2002" Status="Active" Created="2015-08-18 17:00:32Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="CriticalError" Path="c:\WORK\EpowerWSManagement\EpowerWSManagement\Bridge" File="Ewsm.cs" Line="854">'Ewsm.getFullDocument(int, int, int, int, int)' establece un bloqueo en una referencia del tipo 'string'. Reemplácelo con un bloqueo contra un objeto que tenga una identidad sólida.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#getGroups(System.Int32)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotLockOnObjectsWithWeakIdentity" Category="Microsoft.Reliability" CheckId="CA2002" Status="Active" Created="2015-08-18 17:00:32Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="CriticalError" Path="c:\WORK\EpowerWSManagement\EpowerWSManagement\Bridge" File="Ewsm.cs" Line="1315">'Ewsm.getGroups(int)' establece un bloqueo en una referencia del tipo 'string'. Reemplácelo con un bloqueo contra un objeto que tenga una identidad sólida.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#getGroupsByUser(System.Int32,System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotLockOnObjectsWithWeakIdentity" Category="Microsoft.Reliability" CheckId="CA2002" Status="Active" Created="2015-08-18 17:00:32Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="CriticalError" Path="c:\WORK\EpowerWSManagement\EpowerWSManagement\Bridge" File="Ewsm.cs" Line="1495">'Ewsm.getGroupsByUser(int, string)' establece un bloqueo en una referencia del tipo 'string'. Reemplácelo con un bloqueo contra un objeto que tenga una identidad sólida.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#getNewDocument(System.Int32,System.Int32,System.Int32,System.Int32)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotLockOnObjectsWithWeakIdentity" Category="Microsoft.Reliability" CheckId="CA2002" Status="Active" Created="2015-08-18 17:00:32Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="CriticalError" Path="c:\WORK\EpowerWSManagement\EpowerWSManagement\Bridge" File="Ewsm.cs" Line="1468">'Ewsm.getNewDocument(int, int, int, int)' establece un bloqueo en una referencia del tipo 'string'. Reemplácelo con un bloqueo contra un objeto que tenga una identidad sólida.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#getPdfRef(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Boolean,System.Boolean,System.Boolean)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotLockOnObjectsWithWeakIdentity" Category="Microsoft.Reliability" CheckId="CA2002" Status="Active" Created="2015-08-18 17:00:32Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="CriticalError" Path="c:\WORK\EpowerWSManagement\EpowerWSManagement\Bridge" File="Ewsm.cs" Line="1122">'Ewsm.getPdfRef(int, int, int, int, int, bool, bool, bool)' establece un bloqueo en una referencia del tipo 'string'. Reemplácelo con un bloqueo contra un objeto que tenga una identidad sólida.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#getQueryFields(System.Int32,System.Int32,System.Int32,System.Int32)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotLockOnObjectsWithWeakIdentity" Category="Microsoft.Reliability" CheckId="CA2002" Status="Active" Created="2015-08-18 17:00:32Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="CriticalError" Path="c:\WORK\EpowerWSManagement\EpowerWSManagement\Bridge" File="Ewsm.cs" Line="639">'Ewsm.getQueryFields(int, int, int, int)' establece un bloqueo en una referencia del tipo 'string'. Reemplácelo con un bloqueo contra un objeto que tenga una identidad sólida.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#getQueryList(System.Int32,System.Int32,System.Int32)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotLockOnObjectsWithWeakIdentity" Category="Microsoft.Reliability" CheckId="CA2002" Status="Active" Created="2015-08-18 17:00:32Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="CriticalError" Path="c:\WORK\EpowerWSManagement\EpowerWSManagement\Bridge" File="Ewsm.cs" Line="450">'Ewsm.getQueryList(int, int, int)' establece un bloqueo en una referencia del tipo 'string'. Reemplácelo con un bloqueo contra un objeto que tenga una identidad sólida.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#getRef(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotLockOnObjectsWithWeakIdentity" Category="Microsoft.Reliability" CheckId="CA2002" Status="Active" Created="2015-08-18 17:00:32Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="CriticalError" Path="c:\WORK\EpowerWSManagement\EpowerWSManagement\Bridge" File="Ewsm.cs" Line="1077">'Ewsm.getRef(int, int, int, int, int)' establece un bloqueo en una referencia del tipo 'string'. Reemplácelo con un bloqueo contra un objeto que tenga una identidad sólida.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#getRightsByResource(System.Int32,System.String,System.Int32,System.Int32,System.Boolean)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotLockOnObjectsWithWeakIdentity" Category="Microsoft.Reliability" CheckId="CA2002" Status="Active" Created="2015-08-18 17:00:32Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="CriticalError" Path="c:\WORK\EpowerWSManagement\EpowerWSManagement\Bridge" File="Ewsm.cs" Line="1331">'Ewsm.getRightsByResource(int, string, int, int, bool)' establece un bloqueo en una referencia del tipo 'string'. Reemplácelo con un bloqueo contra un objeto que tenga una identidad sólida.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#getTabStruct(System.Int32,System.Int32,System.Int32,System.Int32)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotLockOnObjectsWithWeakIdentity" Category="Microsoft.Reliability" CheckId="CA2002" Status="Active" Created="2015-08-18 17:00:32Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="CriticalError" Path="c:\WORK\EpowerWSManagement\EpowerWSManagement\Bridge" File="Ewsm.cs" Line="761">'Ewsm.getTabStruct(int, int, int, int)' establece un bloqueo en una referencia del tipo 'string'. Reemplácelo con un bloqueo contra un objeto que tenga una identidad sólida.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#getUrlRef(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotLockOnObjectsWithWeakIdentity" Category="Microsoft.Reliability" CheckId="CA2002" Status="Active" Created="2015-08-18 17:00:32Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="CriticalError" Path="c:\WORK\EpowerWSManagement\EpowerWSManagement\Bridge" File="Ewsm.cs" Line="1170">'Ewsm.getUrlRef(int, int, int, int, int)' establece un bloqueo en una referencia del tipo 'string'. Reemplácelo con un bloqueo contra un objeto que tenga una identidad sólida.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#getUsers(System.Int32)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotLockOnObjectsWithWeakIdentity" Category="Microsoft.Reliability" CheckId="CA2002" Status="Active" Created="2015-08-18 17:00:32Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="CriticalError" Path="c:\WORK\EpowerWSManagement\EpowerWSManagement\Bridge" File="Ewsm.cs" Line="1299">'Ewsm.getUsers(int)' establece un bloqueo en una referencia del tipo 'string'. Reemplácelo con un bloqueo contra un objeto que tenga una identidad sólida.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#getUsersByGroup(System.Int32,System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotLockOnObjectsWithWeakIdentity" Category="Microsoft.Reliability" CheckId="CA2002" Status="Active" Created="2015-08-18 17:00:32Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="CriticalError" Path="c:\WORK\EpowerWSManagement\EpowerWSManagement\Bridge" File="Ewsm.cs" Line="1481">'Ewsm.getUsersByGroup(int, string)' establece un bloqueo en una referencia del tipo 'string'. Reemplácelo con un bloqueo contra un objeto que tenga una identidad sólida.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#obtainCacheRef(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotLockOnObjectsWithWeakIdentity" Category="Microsoft.Reliability" CheckId="CA2002" Status="Active" Created="2015-08-18 17:00:32Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="CriticalError" Path="c:\WORK\EpowerWSManagement\EpowerWSManagement\Bridge" File="Ewsm.cs" Line="1194">'Ewsm.obtainCacheRef(int, int, int, int, int)' establece un bloqueo en una referencia del tipo 'string'. Reemplácelo con un bloqueo contra un objeto que tenga una identidad sólida.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#releaseCacheRef(System.Int32)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotLockOnObjectsWithWeakIdentity" Category="Microsoft.Reliability" CheckId="CA2002" Status="Active" Created="2015-08-18 17:00:32Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="CriticalError" Path="c:\WORK\EpowerWSManagement\EpowerWSManagement\Bridge" File="Ewsm.cs" Line="1235">'Ewsm.releaseCacheRef(int)' establece un bloqueo en una referencia del tipo 'string'. Reemplácelo con un bloqueo contra un objeto que tenga una identidad sólida.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#saveFullDocument(System.Int32,System.Int32,System.Int32,System.Int32,Comun.gsiStructTab[],Comun.gsiStructFld[],Comun.gsiStructRef[],Comun.gsiStructAnot[],Comun.gsiHit[])" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotLockOnObjectsWithWeakIdentity" Category="Microsoft.Reliability" CheckId="CA2002" Status="Active" Created="2015-08-18 17:00:32Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="CriticalError" Path="c:\WORK\EpowerWSManagement\EpowerWSManagement\Bridge" File="Ewsm.cs" Line="1389">'Ewsm.saveFullDocument(int, int, int, int, gsiStructTab[], gsiStructFld[], gsiStructRef[], gsiStructAnot[], gsiHit[])' establece un bloqueo en una referencia del tipo 'string'. Reemplácelo con un bloqueo contra un objeto que tenga una identidad sólida.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#saveRef(System.Int32,System.Int32,ePWS.WS.Type.gsiFile)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotLockOnObjectsWithWeakIdentity" Category="Microsoft.Reliability" CheckId="CA2002" Status="Active" Created="2015-08-18 17:00:32Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="CriticalError" Path="c:\WORK\EpowerWSManagement\EpowerWSManagement\Bridge" File="Ewsm.cs" Line="1356">'Ewsm.saveRef(int, int, gsiFile)' establece un bloqueo en una referencia del tipo 'string'. Reemplácelo con un bloqueo contra un objeto que tenga una identidad sólida.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#updateFullDocument(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,Comun.gsiStructTab[],Comun.gsiStructFld[],Comun.gsiStructRef[],Comun.gsiStructAnot[],Comun.gsiHit[])" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotLockOnObjectsWithWeakIdentity" Category="Microsoft.Reliability" CheckId="CA2002" Status="Active" Created="2015-08-18 17:00:32Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="CriticalError" Path="c:\WORK\EpowerWSManagement\EpowerWSManagement\Bridge" File="Ewsm.cs" Line="1423">'Ewsm.updateFullDocument(int, int, int, int, int, gsiStructTab[], gsiStructFld[], gsiStructRef[], gsiStructAnot[], gsiHit[])' establece un bloqueo en una referencia del tipo 'string'. Reemplácelo con un bloqueo contra un objeto que tenga una identidad sólida.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="Global" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="TypesThatOwnDisposableFieldsShouldBeDisposable" Category="Microsoft.Design" CheckId="CA1001" Status="Active" Created="2015-08-18 17:00:32Z" FixCategory="DependsOnFix">
+           <Issue Name="DependsOnFix" Certainty="95" Level="CriticalError">Implemente IDisposable en 'Global' porque crea miembros de los tipos IDisposable siguientes: 'Container'. Si ya se había distribuido 'Global', agregar nuevos miembros que implementen IDisposable en este tipo se considera un cambio rotundo para los consumidores existentes.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="DoNotLockOnObjectsWithWeakIdentity" Category="Microsoft.Reliability" CheckId="CA2002">
+   <Name>No bloquear objetos con identidad débil</Name>
+   <Description>No establezca bloqueos en los objetos que ocupan AppDomains o que no tienen una identidad sólida.</Description>
+   <Resolution Name="Default">{0} establece un bloqueo en una referencia del tipo {1}. Reemplácelo con un bloqueo contra un objeto que tenga una identidad sólida.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182290.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">CriticalError</MessageLevel>
+   <File Name="reliabilityrules.dll" Version="12.0.0.0" />
+  </Rule>
+  <Rule TypeName="RethrowToPreserveStackDetails" Category="Microsoft.Usage" CheckId="CA2200">
+   <Name>Reiniciar para mantener los detalles de la pila</Name>
+   <Description>Utilice la instrucción de reinicio IL para mantener los detalles de la pila original cuando vaya a volver a provocar la excepción detectada.</Description>
+   <Resolution Name="Default">{0} vuelve a producir una excepción detectada y la especifica explícitamente como un argumento. Utilice 'throw' sin un argumento, para mantener la ubicación de la pila donde se provocó inicialmente la excepción.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182363.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="usagerules.dll" Version="12.0.0.0" />
+  </Rule>
+  <Rule TypeName="TypesThatOwnDisposableFieldsShouldBeDisposable" Category="Microsoft.Design" CheckId="CA1001">
+   <Name>Los tipos que poseen campos descartables deben ser descartables</Name>
+   <Description>Los tipos que declaran miembros descartables también deben implementar IDisposable. Si el tipo no posee ningún recurso no administrado, no implementar un finalizador.</Description>
+   <Resolution Name="DependsOnFix">Implemente IDisposable en {0} porque crea miembros de los tipos IDisposable siguientes: {1}. Si ya se había distribuido {0}, agregar nuevos miembros que implementen IDisposable en este tipo se considera un cambio rotundo para los consumidores existentes.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182172.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">CriticalError</MessageLevel>
+   <File Name="designrules.dll" Version="12.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">Categoría</String>
+  <String Key="Certainty">Certeza</String>
+  <String Key="CollapseAll">Contraer todo</String>
+  <String Key="CheckId">Comprobar id.</String>
+  <String Key="Error">Error</String>
+  <String Key="Errors">errores</String>
+  <String Key="ExpandAll">Expandir todo</String>
+  <String Key="Help">Ayuda</String>
+  <String Key="Line">Línea</String>
+  <String Key="Messages">mensajes</String>
+  <String Key="LocationNotStoredInPdb">[Ubicación no almacenada en Pdb]</String>
+  <String Key="Project">Proyecto</String>
+  <String Key="Resolution">Resolución</String>
+  <String Key="Rule">Regla</String>
+  <String Key="RuleFile">Archivo de regla</String>
+  <String Key="RuleDescription">Descripción de la regla</String>
+  <String Key="Source">Origen</String>
+  <String Key="Status">Estado</String>
+  <String Key="Target">Círculos concéntricos</String>
+  <String Key="Warning">Advertencia</String>
+  <String Key="Warnings">advertencias</String>
+  <String Key="ReportTitle">Informe de análisis del código</String>
+ </Localized>
+</FxCopReport>

@@ -1,0 +1,561 @@
+2020-08-21 20:53:31,845 [8] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-21 20:53:33,966 [8] INFO  EpowerWSManagement.Bitacorizador Se busca el documento
+2020-08-21 20:53:35,061 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\T0COPZVYXJQ4.tif
+2020-08-21 20:53:35,061 [8] INFO  EpowerWSManagement.Bitacorizador ruta 00\00\00\18.CB0
+2020-08-21 20:55:35,240 [8] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-21 20:55:36,992 [8] INFO  EpowerWSManagement.Bitacorizador Se busca el documento
+2020-08-21 20:59:41,207 [7] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-21 20:59:43,225 [7] INFO  EpowerWSManagement.Bitacorizador Se busca el documento
+2020-08-21 20:59:58,412 [7] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\3GHWLHKNXEYJ.tif
+2020-08-21 20:59:58,412 [7] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\18.CB0
+2020-08-21 21:00:04,412 [7] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\L2UHHHQFXOYV.tif
+2020-08-21 21:00:04,412 [7] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\21.CB0
+2020-08-21 21:00:08,824 [7] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\HL2R3EVUXXUW.tif
+2020-08-21 21:00:08,824 [7] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\24.CB0
+2020-08-21 21:00:09,128 [7] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\U5CTFKKRX3W3.tif
+2020-08-21 21:00:09,128 [7] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\01.CB0
+2020-08-21 21:00:09,260 [7] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\1V0GUUBNXUA4.tif
+2020-08-21 21:00:09,260 [7] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\19.CB0
+2020-08-21 21:00:09,388 [7] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\XQ3SJVLMXYMT.tif
+2020-08-21 21:00:09,388 [7] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\22.CB0
+2020-08-21 21:00:09,509 [7] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\5GVLG5D2XMM1.tif
+2020-08-21 21:00:09,509 [7] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\25.CB0
+2020-08-21 21:00:09,857 [7] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\LCV0PSMNXVBB.tif
+2020-08-21 21:00:09,857 [7] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\10.CB0
+2020-08-21 21:00:10,044 [7] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\BTPVDSICXEZ1.tif
+2020-08-21 21:00:10,045 [7] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\09.CB0
+2020-08-21 21:00:10,154 [7] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\PGKFQW43XUOS.tif
+2020-08-21 21:00:10,154 [7] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\11.CB0
+2020-08-21 21:00:10,276 [7] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\HQUVJYIZXVBK.tif
+2020-08-21 21:00:10,277 [7] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\20.CB0
+2020-08-21 21:00:10,543 [7] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\GGUADKOVXJ0H.tif
+2020-08-21 21:00:10,543 [7] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\23.CB0
+2020-08-21 21:00:10,725 [7] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\VHWUDTCPXSW4.tif
+2020-08-21 21:00:10,725 [7] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\26.CB0
+2020-08-21 21:02:16,557 [8] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-21 21:02:18,593 [8] INFO  EpowerWSManagement.Bitacorizador Se busca el documento
+2020-08-21 21:02:22,991 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\FHB4IQB4XVCV.tif
+2020-08-21 21:02:22,991 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\18.CB0
+2020-08-21 21:02:23,132 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\JD42JPNSXAVI.tif
+2020-08-21 21:02:23,132 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\21.CB0
+2020-08-21 21:02:23,245 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\F1CSG1AKX40D.tif
+2020-08-21 21:02:23,245 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\24.CB0
+2020-08-21 21:02:23,709 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\13TBMMBLXNM5.tif
+2020-08-21 21:02:23,709 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\01.CB0
+2020-08-21 21:02:23,827 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\0SZSDQAJXHQF.tif
+2020-08-21 21:02:23,827 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\19.CB0
+2020-08-21 21:02:23,948 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\I4V1PKXEXKWV.tif
+2020-08-21 21:02:23,948 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\22.CB0
+2020-08-21 21:02:24,141 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\BJUXMI2YXYA5.tif
+2020-08-21 21:02:24,141 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\25.CB0
+2020-08-21 21:02:24,584 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\FK3DKES4XKBW.tif
+2020-08-21 21:02:24,584 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\10.CB0
+2020-08-21 21:02:24,841 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\QNPUI3ASXNSW.tif
+2020-08-21 21:02:24,842 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\09.CB0
+2020-08-21 21:02:25,174 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\24QEPB2DXIGM.tif
+2020-08-21 21:02:25,174 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\11.CB0
+2020-08-21 21:02:25,391 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\1VNXVAQXXIWS.tif
+2020-08-21 21:02:25,391 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\20.CB0
+2020-08-21 21:02:25,588 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\BHTZWWADXIF2.tif
+2020-08-21 21:02:25,588 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\23.CB0
+2020-08-21 21:02:25,825 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\YV4MJVCDXJ22.tif
+2020-08-21 21:02:25,825 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\26.CB0
+2020-08-21 21:09:45,671 [10] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-21 21:14:34,076 [8] INFO  EpowerWSManagement.Bitacorizador InsertDocument con los siguientes parámetros:
+2020-08-21 21:14:34,166 [8] INFO  EpowerWSManagement.Bitacorizador Con los siguientes Indices: 
+2020-08-21 21:14:34,207 [8] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-21 21:14:35,359 [8] INFO  EpowerWSManagement.Bitacorizador Se busca el documento
+2020-08-21 21:14:35,472 [8] INFO  EpowerWSManagement.Bitacorizador InsertDocument con los siguientes parámetros:
+2020-08-21 21:14:35,472 [8] INFO  EpowerWSManagement.Bitacorizador Con los siguientes Indices: 
+2020-08-21 21:14:35,472 [8] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-21 21:14:35,665 [8] INFO  EpowerWSManagement.Bitacorizador Se inicia la creación de un documento
+2020-08-21 21:14:35,929 [8] INFO  EpowerWSManagement.Bitacorizador Insertando Referencias
+2020-08-21 21:14:35,948 [8] ERROR EpowerWSManagement.Bitacorizador Error al ejecutar el método: InsertaArchivo, Detalles Mensaje: Referencia a objeto no establecida como instancia de un objeto. StackTrace:    en EpowerWSManagement.ServicioEpower.insertaDocumento(String User, String Password, Int32 appId, Int32 doctypeId, Int32 queryId, Datos[] data, Contenido[] content) en C:\AppSoft\2020\CCBePowerWS\EpowerWSManagement\ServicioEpower.cs:línea 389
+2020-08-21 21:16:24,187 [8] INFO  EpowerWSManagement.Bitacorizador InsertDocument con los siguientes parámetros:
+2020-08-21 21:16:24,241 [8] INFO  EpowerWSManagement.Bitacorizador Con los siguientes Indices: 
+2020-08-21 21:16:24,287 [8] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-21 21:16:25,416 [8] INFO  EpowerWSManagement.Bitacorizador Se busca el documento
+2020-08-21 21:16:25,537 [8] INFO  EpowerWSManagement.Bitacorizador InsertDocument con los siguientes parámetros:
+2020-08-21 21:16:25,538 [8] INFO  EpowerWSManagement.Bitacorizador Con los siguientes Indices: 
+2020-08-21 21:16:25,538 [8] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-21 21:16:25,742 [8] INFO  EpowerWSManagement.Bitacorizador Se inicia la creación de un documento
+2020-08-21 21:16:26,037 [8] INFO  EpowerWSManagement.Bitacorizador Insertando Referencias
+2020-08-21 21:16:26,042 [8] ERROR EpowerWSManagement.Bitacorizador Error al ejecutar el método: InsertaArchivo, Detalles Mensaje: Referencia a objeto no establecida como instancia de un objeto. StackTrace:    en EpowerWSManagement.ServicioEpower.insertaDocumento(String User, String Password, Int32 appId, Int32 doctypeId, Int32 queryId, Datos[] data, Contenido[] content) en C:\AppSoft\2020\CCBePowerWS\EpowerWSManagement\ServicioEpower.cs:línea 389
+2020-08-21 21:17:39,718 [8] INFO  EpowerWSManagement.Bitacorizador InsertDocument con los siguientes parámetros:
+2020-08-21 21:17:39,739 [8] INFO  EpowerWSManagement.Bitacorizador Con los siguientes Indices: 
+2020-08-21 21:17:39,757 [8] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-21 21:17:41,512 [8] INFO  EpowerWSManagement.Bitacorizador Se busca el documento
+2020-08-21 21:19:27,192 [8] INFO  EpowerWSManagement.Bitacorizador InsertDocument con los siguientes parámetros:
+2020-08-21 21:19:27,216 [8] INFO  EpowerWSManagement.Bitacorizador Con los siguientes Indices: 
+2020-08-21 21:19:27,229 [8] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-21 21:19:29,720 [8] INFO  EpowerWSManagement.Bitacorizador Se busca el documento
+2020-08-21 21:19:38,960 [8] INFO  EpowerWSManagement.Bitacorizador UpdateDocument con los siguientes parámetros:
+2020-08-21 21:19:38,960 [8] INFO  EpowerWSManagement.Bitacorizador Con los siguientes Indices: 
+2020-08-21 21:19:38,960 [8] INFO  EpowerWSManagement.Bitacorizador DocId: 1042
+2020-08-21 21:19:38,960 [8] INFO  EpowerWSManagement.Bitacorizador Con el siguiente Contenido: 
+2020-08-21 21:19:38,960 [8] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-21 21:19:39,167 [8] INFO  EpowerWSManagement.Bitacorizador Se inicia la actualización del documento, Recuperando documento
+2020-08-21 21:19:39,559 [8] INFO  EpowerWSManagement.Bitacorizador Actualizando Referencias 
+2020-08-21 21:19:42,006 [8] ERROR EpowerWSManagement.Bitacorizador Error al ejecutar el método: UpdateDocument, Detalles Mensaje: Referencia a objeto no establecida como instancia de un objeto. StackTrace:    en EpowerWSManagement.ServicioEpower.actualizaDocumento(String User, String Password, Int32 appId, Int32 doctypeId, Int32 queryId, Int32 DocId, Datos[] data, Contenido[] content, Int32 pos) en C:\AppSoft\2020\CCBePowerWS\EpowerWSManagement\ServicioEpower.cs:línea 494
+2020-08-21 21:19:42,038 [8] INFO  EpowerWSManagement.Bitacorizador UpdateDocument con los siguientes parámetros:
+2020-08-21 21:19:42,038 [8] INFO  EpowerWSManagement.Bitacorizador Con los siguientes Indices: 
+2020-08-21 21:19:42,038 [8] INFO  EpowerWSManagement.Bitacorizador DocId: 1003
+2020-08-21 21:19:42,038 [8] INFO  EpowerWSManagement.Bitacorizador Con el siguiente Contenido: 
+2020-08-21 21:19:42,038 [8] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-21 21:19:42,227 [8] INFO  EpowerWSManagement.Bitacorizador Se inicia la actualización del documento, Recuperando documento
+2020-08-21 21:19:42,553 [8] INFO  EpowerWSManagement.Bitacorizador Actualizando Referencias 
+2020-08-21 21:21:07,968 [8] INFO  EpowerWSManagement.Bitacorizador InsertDocument con los siguientes parámetros:
+2020-08-21 21:21:07,990 [8] INFO  EpowerWSManagement.Bitacorizador Con los siguientes Indices: 
+2020-08-21 21:21:08,011 [8] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-21 21:21:10,071 [8] INFO  EpowerWSManagement.Bitacorizador Se busca el documento
+2020-08-21 21:21:16,624 [8] INFO  EpowerWSManagement.Bitacorizador UpdateDocument con los siguientes parámetros:
+2020-08-21 21:21:16,624 [8] INFO  EpowerWSManagement.Bitacorizador Con los siguientes Indices: 
+2020-08-21 21:21:16,624 [8] INFO  EpowerWSManagement.Bitacorizador DocId: 1042
+2020-08-21 21:21:16,624 [8] INFO  EpowerWSManagement.Bitacorizador Con el siguiente Contenido: 
+2020-08-21 21:21:16,624 [8] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-21 21:21:16,870 [8] INFO  EpowerWSManagement.Bitacorizador Se inicia la actualización del documento, Recuperando documento
+2020-08-21 21:21:17,253 [8] INFO  EpowerWSManagement.Bitacorizador Actualizando Referencias 
+2020-08-21 21:28:56,659 [7] INFO  EpowerWSManagement.Bitacorizador InsertDocument con los siguientes parámetros:
+2020-08-21 21:28:56,686 [7] INFO  EpowerWSManagement.Bitacorizador Con los siguientes Indices: 
+2020-08-21 21:28:56,705 [7] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-21 21:28:58,721 [7] INFO  EpowerWSManagement.Bitacorizador Se busca el documento
+2020-08-21 21:28:59,087 [7] INFO  EpowerWSManagement.Bitacorizador UpdateDocument con los siguientes parámetros:
+2020-08-21 21:28:59,087 [7] INFO  EpowerWSManagement.Bitacorizador Con los siguientes Indices: 
+2020-08-21 21:28:59,087 [7] INFO  EpowerWSManagement.Bitacorizador DocId: 1042
+2020-08-21 21:28:59,087 [7] INFO  EpowerWSManagement.Bitacorizador Con el siguiente Contenido: 
+2020-08-21 21:28:59,087 [7] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-21 21:28:59,285 [7] INFO  EpowerWSManagement.Bitacorizador Se inicia la actualización del documento, Recuperando documento
+2020-08-21 21:28:59,577 [7] INFO  EpowerWSManagement.Bitacorizador Actualizando Referencias 
+2020-08-21 21:29:24,887 [7] INFO  EpowerWSManagement.Bitacorizador Actualizando Documento
+2020-08-21 21:32:43,724 [7] INFO  EpowerWSManagement.Bitacorizador InsertDocument con los siguientes parámetros:
+2020-08-21 21:32:43,755 [7] INFO  EpowerWSManagement.Bitacorizador Con los siguientes Indices: 
+2020-08-21 21:32:43,808 [7] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-21 21:32:46,290 [7] INFO  EpowerWSManagement.Bitacorizador Se busca el documento
+2020-08-21 21:32:46,697 [7] INFO  EpowerWSManagement.Bitacorizador UpdateDocument con los siguientes parámetros:
+2020-08-21 21:32:46,698 [7] INFO  EpowerWSManagement.Bitacorizador Con los siguientes Indices: 
+2020-08-21 21:32:46,698 [7] INFO  EpowerWSManagement.Bitacorizador DocId: 1042
+2020-08-21 21:32:46,698 [7] INFO  EpowerWSManagement.Bitacorizador Con el siguiente Contenido: 
+2020-08-21 21:32:46,698 [7] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-21 21:35:11,533 [8] INFO  EpowerWSManagement.Bitacorizador InsertDocument con los siguientes parámetros:
+2020-08-21 21:35:11,560 [8] INFO  EpowerWSManagement.Bitacorizador Con los siguientes Indices: 
+2020-08-21 21:35:11,579 [8] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-21 21:35:13,715 [8] INFO  EpowerWSManagement.Bitacorizador Se busca el documento
+2020-08-21 21:35:14,069 [8] INFO  EpowerWSManagement.Bitacorizador UpdateDocument con los siguientes parámetros:
+2020-08-21 21:35:14,069 [8] INFO  EpowerWSManagement.Bitacorizador Con los siguientes Indices: 
+2020-08-21 21:35:14,069 [8] INFO  EpowerWSManagement.Bitacorizador DocId: 1042
+2020-08-21 21:35:14,069 [8] INFO  EpowerWSManagement.Bitacorizador Con el siguiente Contenido: 
+2020-08-21 21:35:14,069 [8] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-21 21:35:14,236 [8] INFO  EpowerWSManagement.Bitacorizador Se inicia la actualización del documento, Recuperando documento
+2020-08-21 21:35:14,553 [8] INFO  EpowerWSManagement.Bitacorizador Actualizando Referencias 
+2020-08-21 21:35:26,638 [8] INFO  EpowerWSManagement.Bitacorizador Actualizando Documento
+2020-08-21 21:35:34,157 [8] INFO  EpowerWSManagement.Bitacorizador UpdateDocument con los siguientes parámetros:
+2020-08-21 21:35:34,157 [8] INFO  EpowerWSManagement.Bitacorizador Con los siguientes Indices: 
+2020-08-21 21:35:34,157 [8] INFO  EpowerWSManagement.Bitacorizador DocId: 1003
+2020-08-21 21:35:34,157 [8] INFO  EpowerWSManagement.Bitacorizador Con el siguiente Contenido: 
+2020-08-21 21:35:34,157 [8] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-21 21:35:34,348 [8] INFO  EpowerWSManagement.Bitacorizador Se inicia la actualización del documento, Recuperando documento
+2020-08-21 21:35:34,658 [8] INFO  EpowerWSManagement.Bitacorizador Actualizando Referencias 
+2020-08-21 21:35:41,379 [8] INFO  EpowerWSManagement.Bitacorizador Actualizando Documento
+2020-08-21 21:35:41,787 [8] INFO  EpowerWSManagement.Bitacorizador UpdateDocument con los siguientes parámetros:
+2020-08-21 21:35:41,787 [8] INFO  EpowerWSManagement.Bitacorizador Con los siguientes Indices: 
+2020-08-21 21:35:41,787 [8] INFO  EpowerWSManagement.Bitacorizador DocId: 1022
+2020-08-21 21:35:41,787 [8] INFO  EpowerWSManagement.Bitacorizador Con el siguiente Contenido: 
+2020-08-21 21:35:41,787 [8] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-21 21:35:41,988 [8] INFO  EpowerWSManagement.Bitacorizador Se inicia la actualización del documento, Recuperando documento
+2020-08-21 21:35:42,256 [8] INFO  EpowerWSManagement.Bitacorizador Actualizando Referencias 
+2020-08-21 21:35:42,563 [8] INFO  EpowerWSManagement.Bitacorizador Actualizando Documento
+2020-08-21 21:38:17,102 [8] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-21 21:38:17,338 [8] INFO  EpowerWSManagement.Bitacorizador Se busca el documento
+2020-08-21 21:38:20,297 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\VFDLLNSFXEOE.tif
+2020-08-21 21:38:20,297 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\18.CB0
+2020-08-21 21:38:20,608 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\RJEVKQHWXKUA.tif
+2020-08-21 21:38:20,608 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\21.CB0
+2020-08-21 21:38:20,801 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\E3OWLDB5X3OK.tif
+2020-08-21 21:38:20,801 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\24.CB0
+2020-08-21 21:38:21,117 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\NLB2ZBDOXXLF.tif
+2020-08-21 21:38:21,117 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\28.CB0
+2020-08-21 21:38:21,950 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\5UWG1OHMXEP5.tif
+2020-08-21 21:38:21,953 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\01.CB0
+2020-08-21 21:38:22,302 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\DBM1G5RSXTEW.tif
+2020-08-21 21:38:22,302 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\19.CB0
+2020-08-21 21:38:22,604 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\JHNT3BQUXU22.tif
+2020-08-21 21:38:22,604 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\22.CB0
+2020-08-21 21:38:22,836 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\CFOPLFFHX3OA.tif
+2020-08-21 21:38:22,836 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\25.CB0
+2020-08-21 21:38:23,034 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\BYYNKTJDXP42.tif
+2020-08-21 21:38:23,034 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\29.CB0
+2020-08-21 21:38:23,603 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\BF4KRCO0XU2H.tif
+2020-08-21 21:38:23,604 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\10.CB0
+2020-08-21 21:38:23,861 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\RFWYRWP5X1RY.tif
+2020-08-21 21:38:23,861 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\09.CB0
+2020-08-21 21:38:24,028 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\NYLPOCUAXQGA.tif
+2020-08-21 21:38:24,028 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\11.CB0
+2020-08-21 21:38:24,269 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\3NRD0BPNXROX.tif
+2020-08-21 21:38:24,269 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\20.CB0
+2020-08-21 21:38:24,440 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\IM35D5GOXU2I.tif
+2020-08-21 21:38:24,440 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\23.CB0
+2020-08-21 21:38:24,679 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\MYNAPKYVXEST.tif
+2020-08-21 21:38:24,679 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\26.CB0
+2020-08-21 21:38:25,008 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\RA33O5ETXOHY.tif
+2020-08-21 21:38:25,008 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\30.CB0
+2020-08-21 21:38:58,749 [8] INFO  EpowerWSManagement.Bitacorizador InsertDocument con los siguientes parámetros:
+2020-08-21 21:38:58,749 [8] INFO  EpowerWSManagement.Bitacorizador Con los siguientes Indices: 
+2020-08-21 21:38:58,749 [8] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-21 21:38:58,941 [8] INFO  EpowerWSManagement.Bitacorizador Se busca el documento
+2020-08-21 21:38:59,224 [8] INFO  EpowerWSManagement.Bitacorizador UpdateDocument con los siguientes parámetros:
+2020-08-21 21:38:59,224 [8] INFO  EpowerWSManagement.Bitacorizador Con los siguientes Indices: 
+2020-08-21 21:38:59,224 [8] INFO  EpowerWSManagement.Bitacorizador DocId: 1042
+2020-08-21 21:38:59,224 [8] INFO  EpowerWSManagement.Bitacorizador Con el siguiente Contenido: 
+2020-08-21 21:38:59,224 [8] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-21 21:38:59,399 [8] INFO  EpowerWSManagement.Bitacorizador Se inicia la actualización del documento, Recuperando documento
+2020-08-21 21:38:59,669 [8] INFO  EpowerWSManagement.Bitacorizador Actualizando Referencias 
+2020-08-21 21:38:59,971 [8] INFO  EpowerWSManagement.Bitacorizador Actualizando Documento
+2020-08-21 21:39:00,382 [8] INFO  EpowerWSManagement.Bitacorizador UpdateDocument con los siguientes parámetros:
+2020-08-21 21:39:00,382 [8] INFO  EpowerWSManagement.Bitacorizador Con los siguientes Indices: 
+2020-08-21 21:39:00,382 [8] INFO  EpowerWSManagement.Bitacorizador DocId: 1003
+2020-08-21 21:39:00,382 [8] INFO  EpowerWSManagement.Bitacorizador Con el siguiente Contenido: 
+2020-08-21 21:39:00,382 [8] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-21 21:39:00,574 [8] INFO  EpowerWSManagement.Bitacorizador Se inicia la actualización del documento, Recuperando documento
+2020-08-21 21:39:00,871 [8] INFO  EpowerWSManagement.Bitacorizador Actualizando Referencias 
+2020-08-21 21:39:01,109 [8] INFO  EpowerWSManagement.Bitacorizador Actualizando Documento
+2020-08-21 21:39:01,614 [8] INFO  EpowerWSManagement.Bitacorizador UpdateDocument con los siguientes parámetros:
+2020-08-21 21:39:01,614 [8] INFO  EpowerWSManagement.Bitacorizador Con los siguientes Indices: 
+2020-08-21 21:39:01,614 [8] INFO  EpowerWSManagement.Bitacorizador DocId: 1022
+2020-08-21 21:39:01,614 [8] INFO  EpowerWSManagement.Bitacorizador Con el siguiente Contenido: 
+2020-08-21 21:39:01,614 [8] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-21 21:39:01,825 [8] INFO  EpowerWSManagement.Bitacorizador Se inicia la actualización del documento, Recuperando documento
+2020-08-21 21:39:02,158 [8] INFO  EpowerWSManagement.Bitacorizador Actualizando Referencias 
+2020-08-21 21:39:02,328 [8] INFO  EpowerWSManagement.Bitacorizador Actualizando Documento
+2020-08-23 17:25:36,608 [7] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-23 17:26:08,002 [11] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-23 17:26:08,178 [11] INFO  EpowerWSManagement.Bitacorizador Se busca el documento
+2020-08-23 17:26:19,738 [11] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\QZRQUA54X20K.tif
+2020-08-23 17:26:19,738 [11] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\18.CB0
+2020-08-23 17:26:19,890 [11] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\DFWUQWXJXUBT.tif
+2020-08-23 17:26:19,890 [11] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\21.CB0
+2020-08-23 17:26:20,014 [11] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\0SYCJ50AXICQ.tif
+2020-08-23 17:26:20,014 [11] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\24.CB0
+2020-08-23 17:26:20,132 [11] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\AJGULRGWX0D2.tif
+2020-08-23 17:26:20,132 [11] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\28.CB0
+2020-08-23 17:26:20,253 [11] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\MVP5EE5KXADG.tif
+2020-08-23 17:26:20,253 [11] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\31.CB0
+2020-08-23 17:26:20,612 [11] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\LJGZUZ2JX0PH.tif
+2020-08-23 17:26:20,613 [11] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\01.CB0
+2020-08-23 17:26:20,764 [11] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\VFJOD3TEXGUD.tif
+2020-08-23 17:26:20,764 [11] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\19.CB0
+2020-08-23 17:26:20,935 [11] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\T1IXTIPOXFH5.tif
+2020-08-23 17:26:20,936 [11] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\22.CB0
+2020-08-23 17:26:21,106 [11] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\PPNG2XBOXJ1C.tif
+2020-08-23 17:26:21,106 [11] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\25.CB0
+2020-08-23 17:26:21,268 [11] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\TIW3ISYSXS5I.tif
+2020-08-23 17:26:21,268 [11] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\29.CB0
+2020-08-23 17:26:21,406 [11] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\ONB0FABKXGQS.tif
+2020-08-23 17:26:21,406 [11] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\32.CB0
+2020-08-23 17:26:21,749 [11] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\4XGCCEHWX0M1.tif
+2020-08-23 17:26:21,749 [11] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\10.CB0
+2020-08-23 17:26:21,883 [11] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\1OIIO2G1XJLP.tif
+2020-08-23 17:26:21,883 [11] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\09.CB0
+2020-08-23 17:26:22,025 [11] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\2FZJVUCZXKKR.tif
+2020-08-23 17:26:22,025 [11] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\11.CB0
+2020-08-23 17:26:22,191 [11] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\QZO5KMNIXQVS.tif
+2020-08-23 17:26:22,191 [11] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\20.CB0
+2020-08-23 17:26:22,372 [11] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\XZQS0KPFX54X.tif
+2020-08-23 17:26:22,372 [11] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\23.CB0
+2020-08-23 17:26:22,514 [11] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\ZIPVMKW0XB34.tif
+2020-08-23 17:26:22,514 [11] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\26.CB0
+2020-08-23 17:26:22,654 [11] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\FE31235CXN0A.tif
+2020-08-23 17:26:22,654 [11] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\30.CB0
+2020-08-23 17:26:22,807 [11] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\TXJVWLPUXWOQ.tif
+2020-08-23 17:26:22,807 [11] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\33.CB0
+2020-08-23 17:31:38,497 [10] INFO  EpowerWSManagement.Bitacorizador InsertDocument con los siguientes parámetros:
+2020-08-23 17:31:38,516 [10] INFO  EpowerWSManagement.Bitacorizador Con los siguientes Indices: 
+2020-08-23 17:31:38,551 [10] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-23 17:31:40,342 [10] INFO  EpowerWSManagement.Bitacorizador Se busca el documento
+2020-08-23 17:31:40,670 [10] INFO  EpowerWSManagement.Bitacorizador UpdateDocument con los siguientes parámetros:
+2020-08-23 17:31:40,670 [10] INFO  EpowerWSManagement.Bitacorizador Con los siguientes Indices: 
+2020-08-23 17:31:40,670 [10] INFO  EpowerWSManagement.Bitacorizador DocId: 1042
+2020-08-23 17:31:40,671 [10] INFO  EpowerWSManagement.Bitacorizador Con el siguiente Contenido: 
+2020-08-23 17:31:40,671 [10] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-23 17:31:40,870 [10] INFO  EpowerWSManagement.Bitacorizador Se inicia la actualización del documento, Recuperando documento
+2020-08-23 17:31:41,193 [10] INFO  EpowerWSManagement.Bitacorizador Actualizando Referencias 
+2020-08-23 17:32:06,209 [10] ERROR EpowerWSManagement.Bitacorizador Error al ejecutar el método: UpdateDocument, Detalles Mensaje: Referencia a objeto no establecida como instancia de un objeto. StackTrace:    en ePWS.SessionBean.epSession.imgExt(String ext)
+   en ePWS.SessionBean.epSession.saveRef(Int32 appId, gsiFile docFile)
+   en EpowerWSManagement.Ewsm.saveRef(Int32 sessionId, Int32 appId, gsiFile docFiles) en C:\AppSoft\2020\CCBePowerWS\EpowerWSManagement\Bridge\Ewsm.cs:línea 1436
+   en EpowerWSManagement.ServicioEpower.actualizaDocumento(String User, String Password, Int32 appId, Int32 doctypeId, Int32 queryId, Int32 DocId, Datos[] data, Contenido[] content, Int32 pos) en C:\AppSoft\2020\CCBePowerWS\EpowerWSManagement\ServicioEpower.cs:línea 499
+2020-08-23 17:37:00,381 [7] INFO  EpowerWSManagement.Bitacorizador InsertDocument con los siguientes parámetros:
+2020-08-23 17:37:00,421 [7] INFO  EpowerWSManagement.Bitacorizador Con los siguientes Indices: 
+2020-08-23 17:37:00,471 [7] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-23 17:37:02,051 [7] INFO  EpowerWSManagement.Bitacorizador Se busca el documento
+2020-08-23 17:37:02,469 [7] INFO  EpowerWSManagement.Bitacorizador UpdateDocument con los siguientes parámetros:
+2020-08-23 17:37:02,469 [7] INFO  EpowerWSManagement.Bitacorizador Con los siguientes Indices: 
+2020-08-23 17:37:02,469 [7] INFO  EpowerWSManagement.Bitacorizador DocId: 1042
+2020-08-23 17:37:02,469 [7] INFO  EpowerWSManagement.Bitacorizador Con el siguiente Contenido: 
+2020-08-23 17:37:02,469 [7] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-23 17:37:02,649 [7] INFO  EpowerWSManagement.Bitacorizador Se inicia la actualización del documento, Recuperando documento
+2020-08-23 17:37:03,020 [7] INFO  EpowerWSManagement.Bitacorizador Actualizando Referencias 
+2020-08-23 17:37:03,270 [7] INFO  EpowerWSManagement.Bitacorizador Actualizando Documento
+2020-08-23 17:37:03,741 [7] INFO  EpowerWSManagement.Bitacorizador UpdateDocument con los siguientes parámetros:
+2020-08-23 17:37:03,741 [7] INFO  EpowerWSManagement.Bitacorizador Con los siguientes Indices: 
+2020-08-23 17:37:03,741 [7] INFO  EpowerWSManagement.Bitacorizador DocId: 1003
+2020-08-23 17:37:03,741 [7] INFO  EpowerWSManagement.Bitacorizador Con el siguiente Contenido: 
+2020-08-23 17:37:03,741 [7] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-23 17:37:03,950 [7] INFO  EpowerWSManagement.Bitacorizador Se inicia la actualización del documento, Recuperando documento
+2020-08-23 17:37:04,310 [7] INFO  EpowerWSManagement.Bitacorizador Actualizando Referencias 
+2020-08-23 17:37:04,558 [7] INFO  EpowerWSManagement.Bitacorizador Actualizando Documento
+2020-08-23 17:37:05,006 [7] INFO  EpowerWSManagement.Bitacorizador UpdateDocument con los siguientes parámetros:
+2020-08-23 17:37:05,008 [7] INFO  EpowerWSManagement.Bitacorizador Con los siguientes Indices: 
+2020-08-23 17:37:05,008 [7] INFO  EpowerWSManagement.Bitacorizador DocId: 1022
+2020-08-23 17:37:05,008 [7] INFO  EpowerWSManagement.Bitacorizador Con el siguiente Contenido: 
+2020-08-23 17:37:05,008 [7] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-23 17:37:05,222 [7] INFO  EpowerWSManagement.Bitacorizador Se inicia la actualización del documento, Recuperando documento
+2020-08-23 17:37:05,605 [7] INFO  EpowerWSManagement.Bitacorizador Actualizando Referencias 
+2020-08-23 17:37:05,856 [7] INFO  EpowerWSManagement.Bitacorizador Actualizando Documento
+2020-08-23 17:37:22,802 [8] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-23 17:37:23,115 [8] INFO  EpowerWSManagement.Bitacorizador Se busca el documento
+2020-08-23 17:37:50,623 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\YE0YCHEAXB5R.tif
+2020-08-23 17:37:50,623 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\18.CB0
+2020-08-23 17:37:52,099 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\LBWCYU2YX1TM.tif
+2020-08-23 17:37:52,099 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\21.CB0
+2020-08-23 17:37:56,059 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\ZU0DYTV5XQDH.tif
+2020-08-23 17:37:56,060 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\24.CB0
+2020-08-23 17:38:00,305 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\OMWRD1OEXM3L.tif
+2020-08-23 17:38:00,305 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\28.CB0
+2020-08-23 17:38:02,242 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\UYHDNURGX2BD.tif
+2020-08-23 17:38:02,243 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\31.CB0
+2020-08-23 17:38:03,520 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\IOQ14P4RXVAT.tif
+2020-08-23 17:38:03,521 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB1\00\00\00\01.CB1
+2020-08-23 17:38:08,152 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\MHSQY3YRXWLW.tif
+2020-08-23 17:38:08,152 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\01.CB0
+2020-08-23 17:38:10,119 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\MZWFDR2XXT32.tif
+2020-08-23 17:38:10,119 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\19.CB0
+2020-08-23 17:38:13,476 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\GJYNGVWUXIIC.tif
+2020-08-23 17:38:13,476 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\22.CB0
+2020-08-23 17:38:14,972 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\OJUMDPOCXRD4.tif
+2020-08-23 17:38:14,972 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\25.CB0
+2020-08-23 17:38:16,621 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\BLO3GAYUXWSV.tif
+2020-08-23 17:38:16,621 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\29.CB0
+2020-08-23 17:38:18,322 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\IDVI1IJWX4XK.tif
+2020-08-23 17:38:18,323 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\32.CB0
+2020-08-23 17:38:19,808 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\B2BHXMUYXNAX.tif
+2020-08-23 17:38:19,808 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB1\00\00\00\02.CB1
+2020-08-23 17:38:26,738 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\ZRPDOJMTX4WJ.tif
+2020-08-23 17:38:26,739 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\10.CB0
+2020-08-23 17:38:27,816 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\JBGT2FZBX3SI.tif
+2020-08-23 17:38:27,816 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\09.CB0
+2020-08-23 17:38:28,209 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\U3GPYVP1XBOU.tif
+2020-08-23 17:38:28,210 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\11.CB0
+2020-08-23 17:38:29,499 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\UIVOD23VXEWD.tif
+2020-08-23 17:38:29,499 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\20.CB0
+2020-08-23 17:38:30,313 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\2MITDE2BXZOV.tif
+2020-08-23 17:38:30,314 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\23.CB0
+2020-08-23 17:38:31,589 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\2TJF4FNMXWV5.tif
+2020-08-23 17:38:31,589 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\26.CB0
+2020-08-23 17:38:32,454 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\Z43S0QQBX3HB.tif
+2020-08-23 17:38:32,454 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\30.CB0
+2020-08-23 17:38:33,714 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\ZOVG3PRUXAAD.tif
+2020-08-23 17:38:33,714 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\33.CB0
+2020-08-23 17:38:34,310 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\QE5L0G3MXQVM.tif
+2020-08-23 17:38:34,310 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB1\00\00\00\03.CB1
+2020-08-23 17:38:47,074 [8] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-23 17:38:47,946 [8] INFO  EpowerWSManagement.Bitacorizador Se busca el documento
+2020-08-23 17:39:10,545 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\KP3FBTPDXBUE.tif
+2020-08-23 17:39:10,546 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\18.CB0
+2020-08-23 17:39:16,384 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\US3IKSKIX0BZ.tif
+2020-08-23 17:39:16,393 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\21.CB0
+2020-08-23 17:39:19,893 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\JWE3WQ12XDSW.tif
+2020-08-23 17:39:19,909 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\24.CB0
+2020-08-23 17:39:26,142 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\0G1R3QKDXVVQ.tif
+2020-08-23 17:39:26,142 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\28.CB0
+2020-08-23 17:39:28,658 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\Y2IS4ZPUXWYW.tif
+2020-08-23 17:39:28,659 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\31.CB0
+2020-08-23 17:39:33,785 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\53XDEFWAXZCY.tif
+2020-08-23 17:39:33,785 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB1\00\00\00\01.CB1
+2020-08-23 17:39:41,109 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\AQK00RH0XCRA.tif
+2020-08-23 17:39:41,109 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\01.CB0
+2020-08-23 17:39:46,089 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\QP4BVPC2X2RM.tif
+2020-08-23 17:39:46,089 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\19.CB0
+2020-08-23 17:39:50,763 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\BQ4EFBHJXOUB.tif
+2020-08-23 17:39:50,763 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\22.CB0
+2020-08-23 17:39:53,332 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\VFDKYTX4XLCC.tif
+2020-08-23 17:39:53,333 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\25.CB0
+2020-08-23 17:39:55,633 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\SGA35V0MXVVB.tif
+2020-08-23 17:39:55,633 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\29.CB0
+2020-08-23 17:39:56,640 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\34QV3RJ0XT3J.tif
+2020-08-23 17:39:56,640 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\32.CB0
+2020-08-23 17:39:57,714 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\HRVTCJ1GXLJ5.tif
+2020-08-23 17:39:57,714 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB1\00\00\00\02.CB1
+2020-08-23 17:41:16,973 [8] ERROR EpowerWSManagement.Bitacorizador Error al ejecutar el método: QueryDocumento, Detalles Mensaje: Referencia a objeto no establecida como instancia de un objeto. StackTrace:    en ePWS.SessionBean.epSession.getTabStruct(Int32 sessionId, Int32 docTypeId, Int32 queryId, Int32 docId)
+   en EpowerWSManagement.Ewsm.getTabStruct(Int32 sessionId, Int32 docTypeId, Int32 queryId, Int32 docId) en C:\AppSoft\2020\CCBePowerWS\EpowerWSManagement\Bridge\Ewsm.cs:línea 759
+   en EpowerWSManagement.ServicioEpower.buscarDocumento(String User, String Password, Int32 appId, Int32 doctypeId, Int32 queryId, Datos[] data) en C:\AppSoft\2020\CCBePowerWS\EpowerWSManagement\ServicioEpower.cs:línea 181
+2020-08-23 17:51:46,282 [10] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-23 21:08:15,579 [7] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-23 21:08:59,289 [7] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-23 21:08:59,480 [7] INFO  EpowerWSManagement.Bitacorizador Se busca el documento
+2020-08-23 21:09:14,422 [7] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\WKZHM3TLXMNX.tif
+2020-08-23 21:09:14,422 [7] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\18.CB0
+2020-08-23 21:09:17,238 [7] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\EJOVISJZX3VR.tif
+2020-08-23 21:09:17,238 [7] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\21.CB0
+2020-08-23 21:09:19,470 [7] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\I0NI4REIXJCT.tif
+2020-08-23 21:09:19,470 [7] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\24.CB0
+2020-08-23 21:09:21,749 [7] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\NZMZVEBKX4T5.tif
+2020-08-23 21:09:21,749 [7] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\28.CB0
+2020-08-23 21:09:24,315 [7] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\TH1X3ZNJXGRD.tif
+2020-08-23 21:09:24,315 [7] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\31.CB0
+2020-08-23 21:09:26,490 [7] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\055ZDP4QXQVW.tif
+2020-08-23 21:09:26,490 [7] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB1\00\00\00\01.CB1
+2020-08-23 21:09:34,276 [7] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\JU5IS1GAXKSI.tif
+2020-08-23 21:09:34,283 [7] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\01.CB0
+2020-08-23 21:09:34,439 [7] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\XKSCMS4UXFBQ.tif
+2020-08-23 21:09:34,439 [7] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\19.CB0
+2020-08-23 21:09:34,535 [7] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\1SR3KMC2XWHS.tif
+2020-08-23 21:09:34,535 [7] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\22.CB0
+2020-08-23 21:09:34,627 [7] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\XXKAAVX0XZ4O.tif
+2020-08-23 21:09:34,627 [7] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\25.CB0
+2020-08-23 21:09:34,742 [7] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\ZG0WADPKXGMP.tif
+2020-08-23 21:09:34,742 [7] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\29.CB0
+2020-08-23 21:09:34,857 [7] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\YEXXH2I3X1ZU.tif
+2020-08-23 21:09:34,857 [7] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\32.CB0
+2020-08-23 21:09:34,954 [7] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\H1IJZA4CXMCA.tif
+2020-08-23 21:09:34,954 [7] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB1\00\00\00\02.CB1
+2020-08-23 21:09:35,227 [7] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\ILKOCVHLXFSP.tif
+2020-08-23 21:09:35,227 [7] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\10.CB0
+2020-08-23 21:09:35,376 [7] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\RHBMXA3BXEZN.tif
+2020-08-23 21:09:35,376 [7] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\09.CB0
+2020-08-23 21:09:35,501 [7] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\RNFVDFDGXAUE.tif
+2020-08-23 21:09:35,501 [7] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\11.CB0
+2020-08-23 21:09:35,591 [7] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\UHVMINXHXHCA.tif
+2020-08-23 21:09:35,591 [7] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\20.CB0
+2020-08-23 21:09:35,708 [7] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\4IQPTDVTXV2V.tif
+2020-08-23 21:09:35,708 [7] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\23.CB0
+2020-08-23 21:09:35,849 [7] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\VDFRFZPHXKHW.tif
+2020-08-23 21:09:35,849 [7] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\26.CB0
+2020-08-23 21:09:35,958 [7] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\BALKNASXXQCH.tif
+2020-08-23 21:09:35,958 [7] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\30.CB0
+2020-08-23 21:09:36,063 [7] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\DI14EQ21XM2Q.tif
+2020-08-23 21:09:36,063 [7] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\33.CB0
+2020-08-23 21:09:36,186 [7] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\41GT2VVUXRTJ.tif
+2020-08-23 21:09:36,186 [7] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB1\00\00\00\03.CB1
+2020-08-24 14:10:25,861 [9] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-24 14:15:00,057 [8] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-24 14:15:00,794 [8] INFO  EpowerWSManagement.Bitacorizador Se busca el documento
+2020-08-24 14:15:16,261 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\0BTSAT3LXBFO.tif
+2020-08-24 14:15:16,261 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\18.CB0
+2020-08-24 14:15:16,491 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\BXPUXBICXTHE.tif
+2020-08-24 14:15:16,491 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\21.CB0
+2020-08-24 14:15:16,627 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\TI5TSXMCXGL3.tif
+2020-08-24 14:15:16,627 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\24.CB0
+2020-08-24 14:15:16,933 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\MTZ4JIHEXLUP.tif
+2020-08-24 14:15:16,933 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\28.CB0
+2020-08-24 14:15:17,339 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\5KLGQQ1HXM3D.tif
+2020-08-24 14:15:17,339 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\31.CB0
+2020-08-24 14:15:17,918 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\30IV0IA4XWNN.tif
+2020-08-24 14:15:17,918 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB1\00\00\00\01.CB1
+2020-08-24 14:15:18,727 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\1QOP4SUFXBVQ.tif
+2020-08-24 14:15:18,727 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\01.CB0
+2020-08-24 14:15:18,976 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\IILSAOPJX0GF.tif
+2020-08-24 14:15:18,976 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\19.CB0
+2020-08-24 14:15:19,136 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\BTC4CCGCXHQR.tif
+2020-08-24 14:15:19,136 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\22.CB0
+2020-08-24 14:15:19,304 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\CFV2YJ0TXEVT.tif
+2020-08-24 14:15:19,304 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\25.CB0
+2020-08-24 14:15:19,535 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\1LFGCJHIXVAF.tif
+2020-08-24 14:15:19,535 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\29.CB0
+2020-08-24 14:15:19,785 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\52ATH134XX0S.tif
+2020-08-24 14:15:19,785 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\32.CB0
+2020-08-24 14:15:19,969 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\RFSIMOQGXGIP.tif
+2020-08-24 14:15:19,969 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB1\00\00\00\02.CB1
+2020-08-24 14:15:20,442 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\R0YOTQXGXUZO.tif
+2020-08-24 14:15:20,442 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\10.CB0
+2020-08-24 14:15:20,822 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\NGPEBDQRXYP2.tif
+2020-08-24 14:15:20,823 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\09.CB0
+2020-08-24 14:15:21,037 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\XAZCCV33XVBB.tif
+2020-08-24 14:15:21,037 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\11.CB0
+2020-08-24 14:15:21,236 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\JLUJZRJPXWJ2.tif
+2020-08-24 14:15:21,236 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\20.CB0
+2020-08-24 14:15:21,555 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\J1RKURVYXBUZ.tif
+2020-08-24 14:15:21,556 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\23.CB0
+2020-08-24 14:15:21,836 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\YBLFGCG3X02P.tif
+2020-08-24 14:15:21,836 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\26.CB0
+2020-08-24 14:15:22,112 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\1DJFL1G1XPRU.tif
+2020-08-24 14:15:22,112 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\30.CB0
+2020-08-24 14:15:22,255 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\GGKYR1GNXAJD.tif
+2020-08-24 14:15:22,255 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB0\00\00\00\33.CB0
+2020-08-24 14:15:22,395 [8] INFO  EpowerWSManagement.Bitacorizador ruta C:\rutaDestino\FM55SYEUXIGD.tif
+2020-08-24 14:15:22,395 [8] INFO  EpowerWSManagement.Bitacorizador ruta \\VICTOR-PC\queue\CB1\00\00\00\03.CB1
+2020-08-24 14:19:06,654 [9] INFO  EpowerWSManagement.Bitacorizador InsertDocument con los siguientes parámetros:
+2020-08-24 14:19:06,654 [9] INFO  EpowerWSManagement.Bitacorizador Con los siguientes Indices: 
+2020-08-24 14:19:06,654 [9] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-24 14:19:06,836 [9] INFO  EpowerWSManagement.Bitacorizador Se busca el documento
+2020-08-24 14:19:09,898 [9] INFO  EpowerWSManagement.Bitacorizador InsertDocument con los siguientes parámetros:
+2020-08-24 14:19:09,898 [9] INFO  EpowerWSManagement.Bitacorizador Con los siguientes Indices: 
+2020-08-24 14:19:09,898 [9] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-24 14:19:10,123 [9] INFO  EpowerWSManagement.Bitacorizador Se inicia la creación de un documento
+2020-08-24 14:19:16,562 [9] INFO  EpowerWSManagement.Bitacorizador Insertando Referencias
+2020-08-24 14:19:23,222 [9] INFO  EpowerWSManagement.Bitacorizador Salvando Documento
+2020-08-24 14:19:23,999 [9] ERROR EpowerWSManagement.Bitacorizador Error al ejecutar el método: InsertaArchivo, Detalles Mensaje: CORBA system exception : omg.org.CORBA.BAD_PARAM, completed: Completed_MayBe minor: 3433 StackTrace: 
+Server stack trace: 
+   en Ch.Elca.Iiop.Marshalling.StringSerializer.Serialize(Object actual, CdrOutputStream targetStream)
+   en Ch.Elca.Iiop.Marshalling.IdlStructSerializer.Serialize(Object actual, CdrOutputStream targetStream)
+   en Ch.Elca.Iiop.Marshalling.Serializer.SerializeElementArray(Array actual, CdrOutputStream targetStream)
+   en Ch.Elca.Iiop.Marshalling.IdlStructSerializer.Serialize(Object actual, CdrOutputStream targetStream)
+   en Ch.Elca.Iiop.Marshalling.ArgumentsSerializer.ArgumentsMapping.SerializeRequestArgs(Object[] arguments, CdrOutputStream targetStream, LogicalCallContext context, Serializer contextElementSer)
+   en Ch.Elca.Iiop.MessageHandling.GiopMessageBodySerialiser.SerialiseRequestBody(CdrOutputStream targetStream, GiopClientRequest clientRequest, GiopVersion version, ArgumentsSerializer ser)
+   en Ch.Elca.Iiop.MessageHandling.GiopMessageBodySerialiser.SerialiseRequest(GiopClientRequest clientRequest, CdrOutputStream targetStream, IIorProfile targetProfile, GiopConnectionDesc conDesc)
+   en Ch.Elca.Iiop.MessageHandling.GiopMessageHandler.SerialiseOutgoingRequestMessage(IMessage msg, IIorProfile target, GiopClientConnectionDesc conDesc, Stream targetStream, UInt32 requestId)
+   en Ch.Elca.Iiop.IiopClientFormatterSink.SyncProcessMessageOnce(IMessage msg, Ior target)
+   en Ch.Elca.Iiop.IiopClientFormatterSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   en ePWS.epCorbaTransmisor.savColl(Int32 userId, Int32 tab, Collection collec, Boolean signature, Int32 fase, String firma, Boolean doTrans)
+   en ePWS.SessionBean.epSession.saveDocIns(Int32 sessionId, Int32 tabId, Int32 appId, Int32 docTypeId, Int32 queryId, gsiStructTab[] tabs, gsiStructFld[] entryForm, gsiStructRef[] references, gsiStructAnot[] anotations, gsiHit[] hits)
+   en EpowerWSManagement.Ewsm.saveFullDocument(Int32 sessionId, Int32 appId, Int32 docTypeId, Int32 queryId, gsiStructTab[] tabs, gsiStructFld[] entryForm, gsiStructRef[] references, gsiStructAnot[] anotations, gsiHit[] hits) en C:\AppSoft\2020\CCBePowerWS\EpowerWSManagement\Bridge\Ewsm.cs:línea 1469
+   en EpowerWSManagement.ServicioEpower.insertaDocumento(String User, String Password, Int32 appId, Int32 doctypeId, Int32 queryId, Datos[] data, Contenido[] content) en C:\AppSoft\2020\CCBePowerWS\EpowerWSManagement\ServicioEpower.cs:línea 412
+2020-08-24 14:32:35,360 [7] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-24 14:37:10,818 [9] INFO  EpowerWSManagement.Bitacorizador InsertDocument con los siguientes parámetros:
+2020-08-24 14:37:10,862 [9] INFO  EpowerWSManagement.Bitacorizador Con los siguientes Indices: 
+2020-08-24 14:37:11,023 [9] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-24 14:37:18,366 [9] INFO  EpowerWSManagement.Bitacorizador Se busca el documento
+2020-08-24 14:37:19,092 [9] INFO  EpowerWSManagement.Bitacorizador InsertDocument con los siguientes parámetros:
+2020-08-24 14:37:19,093 [9] INFO  EpowerWSManagement.Bitacorizador Con los siguientes Indices: 
+2020-08-24 14:37:19,093 [9] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-24 14:37:19,348 [9] INFO  EpowerWSManagement.Bitacorizador Se inicia la creación de un documento
+2020-08-24 14:37:19,858 [9] INFO  EpowerWSManagement.Bitacorizador Insertando Referencias
+2020-08-24 14:37:20,130 [9] INFO  EpowerWSManagement.Bitacorizador Salvando Documento
+2020-08-24 14:39:16,621 [13] INFO  EpowerWSManagement.Bitacorizador InsertDocument con los siguientes parámetros:
+2020-08-24 14:39:16,622 [13] INFO  EpowerWSManagement.Bitacorizador Con los siguientes Indices: 
+2020-08-24 14:39:16,622 [13] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-24 14:39:16,905 [13] INFO  EpowerWSManagement.Bitacorizador Se busca el documento
+2020-08-24 14:39:17,143 [13] INFO  EpowerWSManagement.Bitacorizador UpdateDocument con los siguientes parámetros:
+2020-08-24 14:39:17,143 [13] INFO  EpowerWSManagement.Bitacorizador Con los siguientes Indices: 
+2020-08-24 14:39:17,143 [13] INFO  EpowerWSManagement.Bitacorizador DocId: 1121
+2020-08-24 14:39:17,143 [13] INFO  EpowerWSManagement.Bitacorizador Con el siguiente Contenido: 
+2020-08-24 14:39:17,143 [13] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-24 14:39:17,299 [13] INFO  EpowerWSManagement.Bitacorizador Se inicia la actualización del documento, Recuperando documento
+2020-08-24 14:39:18,086 [13] INFO  EpowerWSManagement.Bitacorizador Actualizando Referencias 
+2020-08-24 14:39:20,481 [13] INFO  EpowerWSManagement.Bitacorizador Actualizando Documento
+2020-08-25 14:13:07,767 [8] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-25 14:13:09,296 [8] ERROR EpowerWSManagement.Bitacorizador Error al ejecutar el método: setLoginePower, Detalles Mensaje: Referencia a objeto no establecida como instancia de un objeto. StackTrace:    en EpowerWSManagement.Ewsm.doLogin(String user, String password, String module) en C:\AppSoft\2020\CCBePowerWS\EpowerWSManagement\Bridge\Ewsm.cs:línea 158
+   en EpowerWSManagement.ServicioEpower.doLoginePower(String User, String Password) en C:\AppSoft\2020\CCBePowerWS\EpowerWSManagement\ServicioEpower.cs:línea 70
+2020-08-25 14:13:55,042 [14] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-25 14:13:55,060 [14] ERROR EpowerWSManagement.Bitacorizador Error al ejecutar el método: setLoginePower, Detalles Mensaje: Referencia a objeto no establecida como instancia de un objeto. StackTrace:    en EpowerWSManagement.Ewsm.doLogin(String user, String password, String module) en C:\AppSoft\2020\CCBePowerWS\EpowerWSManagement\Bridge\Ewsm.cs:línea 158
+   en EpowerWSManagement.ServicioEpower.doLoginePower(String User, String Password) en C:\AppSoft\2020\CCBePowerWS\EpowerWSManagement\ServicioEpower.cs:línea 70
+2020-08-25 14:15:24,483 [14] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-25 14:16:38,088 [9] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-26 12:02:54,186 [11] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-26 12:03:19,765 [11] ERROR EpowerWSManagement.Bitacorizador Error al ejecutar el método: setLoginePower, Detalles Mensaje: Referencia a objeto no establecida como instancia de un objeto. StackTrace:    en EpowerWSManagement.Ewsm.doLogin(String user, String password, String module) en C:\Users\emendez\source\repos\WCFServiceDev\Version Victor\EpowerWSManagement\Bridge\Ewsm.cs:línea 158
+   en EpowerWSManagement.ServicioEpower.doLoginePower(String User, String Password) en C:\Users\emendez\source\repos\WCFServiceDev\Version Victor\EpowerWSManagement\ServicioEpower.cs:línea 70
+2020-08-27 11:42:22,697 [7] INFO  EpowerWSManagement.Bitacorizador Ingrese al metodo de consulta, enviando datos al metodo buscarDocumento
+2020-08-27 11:42:23,047 [7] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-08-27 11:42:48,419 [7] ERROR EpowerWSManagement.Bitacorizador Error al autenticarse con ePower: Imposible autenticarse con ePower, verifique sus credenciales y conexión a ePower. Referencia a objeto no establecida como instancia de un objeto.
+2020-08-27 11:42:48,420 [7] INFO  EpowerWSManagement.Bitacorizador Se busca el documento
+2020-08-27 11:42:55,730 [7] ERROR EpowerWSManagement.Bitacorizador Error al ejecutar el método: QueryDocumento, Detalles Mensaje: ORA-12154: TNS:no se ha podido resolver el identificador de conexión especificado StackTrace:    en OracleInternal.ConnectionPool.PoolManager`3.Get(ConnectionString csWithDiffOrNewPwd, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch)
+   en OracleInternal.ConnectionPool.OraclePoolManager.Get(ConnectionString csWithNewPassword, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch)
+   en OracleInternal.ConnectionPool.OracleConnectionDispenser`3.Get(ConnectionString cs, PM conPM, ConnectionString pmCS, SecureString securedPassword, SecureString securedProxyPassword, OracleConnection connRefForCriteria)
+   en Oracle.ManagedDataAccess.Client.OracleConnection.Open()
+   en EpowerWSManagement.ServicioEpower.buscarDocumento(String User, String Password, Int32 appId, Int32 doctypeId, Int32 queryId, Datos[] data) en C:\Users\emendez\source\repos\WCFServiceDev\Version Victor\EpowerWSManagement\ServicioEpower.cs:línea 128
+2020-09-24 13:17:13,026 [11] INFO  EpowerWSManagement.Bitacorizador InsertDocument con los siguientes parámetros:
+2020-09-24 13:17:13,036 [11] INFO  EpowerWSManagement.Bitacorizador Con los siguientes Indices: 
+2020-09-24 13:17:13,067 [11] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2020-09-24 13:17:39,460 [11] ERROR EpowerWSManagement.Bitacorizador Error al autenticarse con ePower: Imposible autenticarse con ePower, verifique sus credenciales y conexión a ePower. Referencia a objeto no establecida como instancia de un objeto.
+2020-09-24 13:17:39,460 [11] INFO  EpowerWSManagement.Bitacorizador Se busca el documento
+2020-09-24 13:17:41,079 [11] ERROR EpowerWSManagement.Bitacorizador Error al ejecutar el método: GuardarDocumento, Detalles Mensaje: Referencia a objeto no establecida como instancia de un objeto. StackTrace:    en EpowerWSManagement.ServicioEpower.guardarDocumento(String User, String Password, Int32 appId, Int32 doctypeId, Int32 queryId, Datos[] data, Datos[] dataset, Contenido[] contenido, Int32 pos) en C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\Version Victor\EpowerWSManagement\ServicioEpower.cs:línea 281

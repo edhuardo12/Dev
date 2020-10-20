@@ -1,0 +1,15 @@
+2015-09-29 14:18:05,878 [8] INFO  EpowerWSManagement.Bitacorizador RetornaDocumento con los siguientes parámetros:
+2015-09-29 14:18:08,144 [8] INFO  EpowerWSManagement.Bitacorizador appId: 1001 Doctype: 1009 Query: 1011 Nombre Archivo: "" Cejilla: Prueba
+2015-09-29 14:18:24,020 [8] INFO  EpowerWSManagement.Bitacorizador indice de ePower0: 1
+2015-09-29 14:18:24,020 [8] INFO  EpowerWSManagement.Bitacorizador indice de ePower1: 11
+2015-09-29 14:18:26,425 [8] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2015-09-29 14:18:37,285 [8] INFO  EpowerWSManagement.Bitacorizador Inicia la búsqueda del documento de acuerdo a los indices
+2015-09-29 14:18:54,441 [8] INFO  EpowerWSManagement.Bitacorizador Recuperando archivo del documento 1066
+2015-09-29 14:19:20,926 [8] ERROR EpowerWSManagement.Bitacorizador Error al ejecutar el método: Obtener Archivo, Detalles Mensaje: Error al ejecutar el método: Obtener Archivo, No se ha encontrado ningun archivo con el nombre suministrado StackTrace:    at EpowerWSManagement.ServicioEpower.RetornaDocumento(Int32 appId, Int32 doctype, Int32 query, String[] IndicesEpower, String NomArch, String cejilla) in c:\WORK\EpowerWSManagement\EpowerWSManagement\Service1.cs:line 234
+2015-09-29 14:19:41,831 [12] INFO  EpowerWSManagement.Bitacorizador RetornaDocumento con los siguientes parámetros:
+2015-09-29 14:19:41,831 [12] INFO  EpowerWSManagement.Bitacorizador appId: 1001 Doctype: 1009 Query: 1011 Nombre Archivo:  Cejilla: Prueba
+2015-09-29 14:19:41,831 [12] INFO  EpowerWSManagement.Bitacorizador indice de ePower0: 1
+2015-09-29 14:19:41,831 [12] INFO  EpowerWSManagement.Bitacorizador indice de ePower1: 11
+2015-09-29 14:19:53,816 [12] INFO  EpowerWSManagement.Bitacorizador Inicia Login hacia ePower
+2015-09-29 14:19:53,910 [12] INFO  EpowerWSManagement.Bitacorizador Inicia la búsqueda del documento de acuerdo a los indices
+2015-09-29 14:19:54,019 [12] INFO  EpowerWSManagement.Bitacorizador Recuperando archivo del documento 1066

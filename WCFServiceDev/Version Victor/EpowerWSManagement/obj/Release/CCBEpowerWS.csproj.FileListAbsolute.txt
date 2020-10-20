@@ -1,0 +1,24 @@
+C:\Users\emendez\source\repos\WCFServiceDev\Version Victor\EpowerWSManagement\obj\Release\CCBEpowerWS.csprojAssemblyReference.cache
+C:\Users\emendez\source\repos\WCFServiceDev\Version Victor\EpowerWSManagement\obj\Release\EpowerWSManagement.Properties.Resources.resources
+C:\Users\emendez\source\repos\WCFServiceDev\Version Victor\EpowerWSManagement\obj\Release\CCBEpowerWS.csproj.GenerateResource.cache
+C:\Users\emendez\source\repos\WCFServiceDev\Version Victor\EpowerWSManagement\obj\Release\CCBEpowerWS.csproj.CoreCompileInputs.cache
+C:\Users\emendez\source\repos\WCFServiceDev\Version Victor\EpowerWSManagement\obj\Release\EpowerWSManagement.dll
+C:\Users\emendez\source\repos\WCFServiceDev\Version Victor\EpowerWSManagement\obj\Release\EpowerWSManagement.pdb
+C:\Users\emendez\source\repos\WCFServiceDev\Version Victor\EpowerWSManagement\bin\Release\EpowerWSManagement.dll.config
+C:\Users\emendez\source\repos\WCFServiceDev\Version Victor\EpowerWSManagement\bin\Release\EpowerWSManagement.dll
+C:\Users\emendez\source\repos\WCFServiceDev\Version Victor\EpowerWSManagement\bin\Release\EpowerWSManagement.pdb
+C:\Users\emendez\source\repos\WCFServiceDev\Version Victor\EpowerWSManagement\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Users\emendez\source\repos\WCFServiceDev\Version Victor\EpowerWSManagement\bin\Release\log4net.xml
+C:\Users\emendez\source\repos\WCFServiceDev\Version Victor\EpowerWSManagement\obj\Release\CCBEpowerWS.csproj.CopyComplete
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\Version Victor\EpowerWSManagement\bin\Release\EpowerWSManagement.dll.config
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\Version Victor\EpowerWSManagement\bin\Release\EpowerWSManagement.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\Version Victor\EpowerWSManagement\bin\Release\EpowerWSManagement.pdb
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\Version Victor\EpowerWSManagement\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\Version Victor\EpowerWSManagement\bin\Release\log4net.xml
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\Version Victor\EpowerWSManagement\obj\Release\CCBEpowerWS.csprojAssemblyReference.cache
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\Version Victor\EpowerWSManagement\obj\Release\EpowerWSManagement.Properties.Resources.resources
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\Version Victor\EpowerWSManagement\obj\Release\CCBEpowerWS.csproj.GenerateResource.cache
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\Version Victor\EpowerWSManagement\obj\Release\CCBEpowerWS.csproj.CoreCompileInputs.cache
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\Version Victor\EpowerWSManagement\obj\Release\CCBEpowerWS.csproj.CopyComplete
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\Version Victor\EpowerWSManagement\obj\Release\EpowerWSManagement.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\Version Victor\EpowerWSManagement\obj\Release\EpowerWSManagement.pdb

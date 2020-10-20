@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import namespace="http://schemas.datacontract.org/2004/07/EpowerWSManagement" />
+  <xs:element name="SaveDocument">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="User" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Password" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="appId" type="xs:int" />
+        <xs:element minOccurs="0" name="tipeId" type="xs:int" />
+        <xs:element minOccurs="0" name="queryId" type="xs:int" />
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/EpowerWSManagement" minOccurs="0" name="data" nillable="true" type="q1:ArrayOfDatos" />
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/EpowerWSManagement" minOccurs="0" name="dataSet" nillable="true" type="q2:ArrayOfDatos" />
+        <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/EpowerWSManagement" minOccurs="0" name="contenido" nillable="true" type="q3:ArrayOfContenido" />
+        <xs:element minOccurs="0" name="pos" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SaveDocumentResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q4="http://schemas.datacontract.org/2004/07/EpowerWSManagement" minOccurs="0" name="SaveDocumentResult" nillable="true" type="q4:ResultadoAccion" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SaveDocumentTest">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="User" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Password" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="appId" type="xs:int" />
+        <xs:element minOccurs="0" name="tipeId" type="xs:int" />
+        <xs:element minOccurs="0" name="queryId" type="xs:int" />
+        <xs:element xmlns:q5="http://schemas.datacontract.org/2004/07/EpowerWSManagement" minOccurs="0" name="data" nillable="true" type="q5:ArrayOfDatos" />
+        <xs:element xmlns:q6="http://schemas.datacontract.org/2004/07/EpowerWSManagement" minOccurs="0" name="dataSet" nillable="true" type="q6:ArrayOfDatos" />
+        <xs:element xmlns:q7="http://schemas.datacontract.org/2004/07/EpowerWSManagement" minOccurs="0" name="contenido" nillable="true" type="q7:ArrayOfContenido" />
+        <xs:element minOccurs="0" name="pos" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SaveDocumentTestResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q8="http://schemas.datacontract.org/2004/07/EpowerWSManagement" minOccurs="0" name="SaveDocumentTestResult" nillable="true" type="q8:ResultadoAccion" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="LoginePower">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="User" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Password" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="LoginePowerResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q9="http://schemas.datacontract.org/2004/07/EpowerWSManagement" minOccurs="0" name="LoginePowerResult" nillable="true" type="q9:ResultadoAccion" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="LoginePowerTest">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="User" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Password" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="LoginePowerTestResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q10="http://schemas.datacontract.org/2004/07/EpowerWSManagement" minOccurs="0" name="LoginePowerTestResult" nillable="true" type="q10:ResultadoAccion" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="QueryDocument">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="User" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Password" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="appId" type="xs:int" />
+        <xs:element minOccurs="0" name="tipeId" type="xs:int" />
+        <xs:element minOccurs="0" name="queryId" type="xs:int" />
+        <xs:element xmlns:q11="http://schemas.datacontract.org/2004/07/EpowerWSManagement" minOccurs="0" name="data" nillable="true" type="q11:ArrayOfDatos" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="QueryDocumentResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q12="http://schemas.datacontract.org/2004/07/EpowerWSManagement" minOccurs="0" name="QueryDocumentResult" nillable="true" type="q12:ArrayOfResultado" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="QueryDocumentTest">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="User" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Password" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="appId" type="xs:int" />
+        <xs:element minOccurs="0" name="tipeId" type="xs:int" />
+        <xs:element minOccurs="0" name="queryId" type="xs:int" />
+        <xs:element xmlns:q13="http://schemas.datacontract.org/2004/07/EpowerWSManagement" minOccurs="0" name="data" nillable="true" type="q13:ArrayOfDatos" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="QueryDocumentTestResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q14="http://schemas.datacontract.org/2004/07/EpowerWSManagement" minOccurs="0" name="QueryDocumentTestResult" nillable="true" type="q14:ArrayOfResultado" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

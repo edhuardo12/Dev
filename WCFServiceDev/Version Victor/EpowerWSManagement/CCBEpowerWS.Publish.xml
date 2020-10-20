@@ -1,0 +1,25 @@
+<publishData>
+  <publishTarget publishUrl="C:\inetpub\wwwroot\CCBePowerWS\">
+    <file relUrl="Web.config" publishTime="08/26/2020 11:55:30" />
+    <file relUrl="bin/ewsm.dll" publishTime="06/09/2015 08:54:52" />
+    <file relUrl="bin/eTree.dll" publishTime="06/09/2015 08:54:48" />
+    <file relUrl="bin/EpowerWSManagement.dll.CodeAnalysisLog.xml" publishTime="08/18/2015 05:00:38" />
+    <file relUrl="bin/Oracle.ManagedDataAccess.dll" publishTime="05/30/2020 21:29:14" />
+    <file relUrl="bin/Channel.dll" publishTime="06/09/2015 08:54:50" />
+    <file relUrl="bin/log4.config" publishTime="08/14/2015 09:27:38" />
+    <file relUrl="bin/EpowerWSManagement.pdb" publishTime="09/23/2020 14:50:15" />
+    <file relUrl="bin/BitMiracle.LibTiff.NET.dll" publishTime="10/13/2014 18:41:32" />
+    <file relUrl="bin/Interfaces.dll" publishTime="06/09/2015 08:54:50" />
+    <file relUrl="bin/log4net.dll" publishTime="11/23/2013 10:04:16" />
+    <file relUrl="bin/eConditionBuilder.dll" publishTime="06/09/2015 08:54:50" />
+    <file relUrl="bin/IDL.dll" publishTime="09/19/2014 03:35:40" />
+    <file relUrl="bin/EpowerWSManagement.dll.lastcodeanalysissucceeded" publishTime="08/18/2015 05:00:38" />
+    <file relUrl="bin/O2S.Components.PDF4NET.dll" publishTime="08/12/2015 05:51:44" />
+    <file relUrl="EpowerWSManagement.ServicioEpower.svc" publishTime="09/23/2020 14:51:15" />
+    <file relUrl="bin/EpowerWSManagement.dll.config" publishTime="08/26/2020 11:55:30" />
+    <file relUrl="bin/IIOPChannel.dll" publishTime="06/09/2015 08:54:48" />
+    <file relUrl="bin/ePWS.dll" publishTime="06/09/2015 08:54:50" />
+    <file relUrl="bin\Log/log.txt" publishTime="08/27/2020 11:42:56" />
+    <file relUrl="bin/EpowerWSManagement.dll" publishTime="09/23/2020 14:50:15" />
+  </publishTarget>
+</publishData>

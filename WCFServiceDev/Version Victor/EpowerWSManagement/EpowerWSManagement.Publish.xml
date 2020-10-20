@@ -1,0 +1,70 @@
+<publishData>
+  <publishTarget publishUrl="http://localhost/WSEcuePower">
+    <file relUrl="Web.config" publishTime="10/01/2015 14:18:27" />
+    <file relUrl="bin/ewsm.dll" publishTime="06/09/2015 14:54:52" />
+    <file relUrl="bin/eTree.dll" publishTime="06/09/2015 14:54:48" />
+    <file relUrl="bin/eConditionBuilder.dll" publishTime="06/09/2015 14:54:50" />
+    <file relUrl="bin/O2S.Components.PDF4NET.xml" publishTime="08/12/2015 11:51:43" />
+    <file relUrl="bin/Channel.dll" publishTime="06/09/2015 14:54:50" />
+    <file relUrl="bin/EpowerWSManagement.pdb" publishTime="10/01/2015 14:27:33" />
+    <file relUrl="bin/Interfaces.dll" publishTime="06/09/2015 14:54:50" />
+    <file relUrl="bin/log4net.dll" publishTime="08/13/2015 09:37:31" />
+    <file relUrl="bin/log4net.xml" publishTime="08/13/2015 09:37:31" />
+    <file relUrl="bin/IDL.dll" publishTime="09/19/2014 09:35:40" />
+    <file relUrl="bin/O2S.Components.PDF4NET.dll" publishTime="08/12/2015 11:51:43" />
+    <file relUrl="EpowerWSManagement.ServicioEpower.svc" publishTime="10/01/2015 14:27:42" />
+    <file relUrl="bin/ePWS.dll" publishTime="06/09/2015 14:54:50" />
+    <file relUrl="bin/EpowerWSManagement.dll.config" publishTime="10/01/2015 14:18:27" />
+    <file relUrl="bin/IIOPChannel.dll" publishTime="06/09/2015 14:54:48" />
+    <file relUrl="bin/BitMiracle.LibTiff.NET.dll" publishTime="10/14/2014 00:41:32" />
+    <file relUrl="bin\Log/log.txt" publishTime="09/29/2015 14:19:56" />
+    <file relUrl="bin/EpowerWSManagement.dll" publishTime="10/01/2015 14:27:35" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\WORK\Instalador\">
+    <file relUrl="Web.config" publishTime="08/19/2015 10:08:32" />
+    <file relUrl="bin/ewsm.dll" publishTime="06/09/2015 14:54:52" />
+    <file relUrl="bin/eTree.dll" publishTime="06/09/2015 14:54:48" />
+    <file relUrl="bin/eConditionBuilder.dll" publishTime="06/09/2015 14:54:50" />
+    <file relUrl="bin/O2S.Components.PDF4NET.xml" publishTime="08/12/2015 11:51:43" />
+    <file relUrl="bin/Channel.dll" publishTime="06/09/2015 14:54:50" />
+    <file relUrl="bin/log4.config" publishTime="08/14/2015 15:27:37" />
+    <file relUrl="bin/EpowerWSManagement.pdb" publishTime="08/19/2015 12:04:48" />
+    <file relUrl="bin/Interfaces.dll" publishTime="06/09/2015 14:54:50" />
+    <file relUrl="bin/log4net.dll" publishTime="08/13/2015 09:37:31" />
+    <file relUrl="bin/log4net.xml" publishTime="08/13/2015 09:37:31" />
+    <file relUrl="bin/IDL.dll" publishTime="09/19/2014 09:35:40" />
+    <file relUrl="bin/O2S.Components.PDF4NET.dll" publishTime="08/12/2015 11:51:43" />
+    <file relUrl="EpowerWSManagement.ServicioEpower.svc" publishTime="08/20/2015 10:13:23" />
+    <file relUrl="bin/ePWS.dll" publishTime="06/09/2015 14:54:50" />
+    <file relUrl="bin/EpowerWSManagement.dll.config" publishTime="08/19/2015 10:08:32" />
+    <file relUrl="bin/IIOPChannel.dll" publishTime="06/09/2015 14:54:48" />
+    <file relUrl="bin/BitMiracle.LibTiff.NET.dll" publishTime="10/14/2014 00:41:32" />
+    <file relUrl="bin/EpowerWSManagement.dll" publishTime="08/19/2015 12:04:48" />
+  </publishTarget>
+  <publishTarget publishUrl="http://mbarquerow8/WSEcuador">
+    <file relUrl="Web.config" publishTime="08/17/2015 09:28:07" />
+    <file relUrl="bin/ewsm.dll" publishTime="08/12/2015 11:51:43" />
+    <file relUrl="bin/log.txt" publishTime="08/13/2015 11:55:28" />
+    <file relUrl="bin/IDL.dll" publishTime="08/12/2015 11:51:43" />
+    <file relUrl="bin/eTree.dll" publishTime="08/12/2015 11:51:43" />
+    <file relUrl="bin/eConditionBuilder.dll" publishTime="08/12/2015 11:51:43" />
+    <file relUrl="bin/O2S.Components.PDF4NET.xml" publishTime="08/12/2015 11:51:43" />
+    <file relUrl="bin/EpowerWSManagement.dll" publishTime="08/18/2015 10:58:34" />
+    <file relUrl="bin/EpowerWSManagement.dll.config" publishTime="08/17/2015 09:28:07" />
+    <file relUrl="bin/Channel.dll" publishTime="08/12/2015 11:51:43" />
+    <file relUrl="bin/EpowerWSManagement.pdb" publishTime="08/18/2015 10:58:34" />
+    <file relUrl="bin/ewsm.pdb" publishTime="08/12/2015 11:51:43" />
+    <file relUrl="bin/log4net.xml" publishTime="08/13/2015 09:37:31" />
+    <file relUrl="bin/log4.config" publishTime="08/14/2015 15:27:37" />
+    <file relUrl="bin/BitMiracle.LibTiff.NET.xml" publishTime="08/12/2015 11:51:43" />
+    <file relUrl="bin/IIOPChannel.pdb" publishTime="08/12/2015 11:51:43" />
+    <file relUrl="bin/O2S.Components.PDF4NET.dll" publishTime="08/12/2015 11:51:43" />
+    <file relUrl="EpowerWSManagement.ServicioEpower.svc" publishTime="08/18/2015 11:00:03" />
+    <file relUrl="bin/Interfaces.dll" publishTime="08/12/2015 11:51:43" />
+    <file relUrl="bin/IIOPChannel.dll" publishTime="08/12/2015 11:51:43" />
+    <file relUrl="bin/BitMiracle.LibTiff.NET.dll" publishTime="08/12/2015 11:51:43" />
+    <file relUrl="bin/Interfaces.pdb" publishTime="08/12/2015 11:51:43" />
+    <file relUrl="bin/log4net.dll" publishTime="08/13/2015 09:37:31" />
+    <file relUrl="bin/ePWS.dll" publishTime="08/12/2015 11:51:43" />
+  </publishTarget>
+</publishData>

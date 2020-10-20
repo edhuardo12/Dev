@@ -1,0 +1,176 @@
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\obj\Release\ePowerCCBApi.csprojAssemblyReference.cache
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\obj\Release\ePowerCCBApi.csproj.CoreCompileInputs.cache
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\ePowerCCBApi.dll.config
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\ePowerCCBApi.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\ePowerCCBApi.pdb
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\csc.exe
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\csc.exe.config
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\csc.rsp
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\csi.exe
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\csi.exe.config
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\csi.rsp
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.AppContext.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.Console.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.Net.Http.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.Net.Sockets.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\vbc.exe
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\vbc.exe.config
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\vbc.rsp
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\Newtonsoft.Json.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\System.Net.Http.Formatting.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\System.Web.Helpers.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\System.Web.Http.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\System.Web.Http.WebHost.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\System.Web.Mvc.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\System.Web.Razor.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\System.Web.Webpages.Deployment.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\System.Web.Webpages.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\System.Web.Webpages.Razor.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\System.Web.Razor.xml
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\System.Web.Webpages.xml
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\System.Web.Webpages.Deployment.xml
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\System.Web.Webpages.Razor.xml
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\System.Web.Helpers.xml
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\System.Web.Mvc.xml
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\Newtonsoft.Json.xml
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\System.Net.Http.Formatting.xml
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\System.Web.Http.xml
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\System.Web.Http.WebHost.xml
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\obj\Release\ePowerCCBApi.csproj.CopyComplete
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\obj\Release\ePowerCCBApi.dll
+C:\Users\emendez\source\repos\WCFServiceDev\ePowerCCBApi\obj\Release\ePowerCCBApi.pdb
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\ePowerCCBApi.dll.config
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\ePowerCCBApi.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\ePowerCCBApi.pdb
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\csc.exe
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\csc.exe.config
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\csc.rsp
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\csi.exe
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\csi.exe.config
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\csi.rsp
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.AppContext.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.Console.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.Globalization.Calendars.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.IO.Compression.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.Net.Http.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.Net.Sockets.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.ValueTuple.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.Xml.XPath.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\vbc.exe
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\vbc.exe.config
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\vbc.rsp
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\VBCSCompiler.exe
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\Microsoft.IdentityModel.Logging.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\Newtonsoft.Json.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\System.Net.Http.Formatting.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\System.Web.Helpers.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\System.Web.Http.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\System.Web.Http.WebHost.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\System.Web.Mvc.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\System.Web.Razor.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\System.Web.Webpages.Deployment.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\System.Web.Webpages.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\System.Web.Webpages.Razor.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\Microsoft.IdentityModel.Logging.xml
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\System.Web.Razor.xml
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\System.Web.Webpages.xml
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\System.Web.Webpages.Deployment.xml
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\System.Web.Webpages.Razor.xml
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\System.Web.Helpers.xml
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\System.Web.Mvc.xml
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\Newtonsoft.Json.xml
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\System.Net.Http.Formatting.xml
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\System.Web.Http.xml
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\System.Web.Http.WebHost.xml
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\obj\Release\ePowerCCBApi.csprojAssemblyReference.cache
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\obj\Release\ePowerCCBApi.csproj.CoreCompileInputs.cache
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\obj\Release\ePowerCCBApi.csproj.CopyComplete
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\obj\Release\ePowerCCBApi.dll
+C:\Entorno de Desarrollo\WCFServiceDev\WCFServiceDev\ePowerCCBApi\obj\Release\ePowerCCBApi.pdb

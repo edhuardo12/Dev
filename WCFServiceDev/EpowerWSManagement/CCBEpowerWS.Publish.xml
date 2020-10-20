@@ -1,0 +1,64 @@
+<publishData>
+  <publishTarget publishUrl="http://localhost:8081/">
+    <file relUrl="Web.config" publishTime="08/25/2020 13:04:39" />
+    <file relUrl="bin/ewsm.dll" publishTime="06/09/2015 08:54:52" />
+    <file relUrl="bin/eTree.dll" publishTime="06/09/2015 08:54:48" />
+    <file relUrl="bin/EpowerWSManagement.dll.CodeAnalysisLog.xml" publishTime="08/18/2015 05:00:38" />
+    <file relUrl="bin/Oracle.DataAccess.dll" publishTime="12/11/2013 21:27:30" />
+    <file relUrl="bin/Channel.dll" publishTime="06/09/2015 08:54:50" />
+    <file relUrl="bin/log4.config" publishTime="08/14/2015 09:27:38" />
+    <file relUrl="bin/EpowerWSManagement.pdb" publishTime="08/24/2020 13:23:57" />
+    <file relUrl="bin/BitMiracle.LibTiff.NET.dll" publishTime="10/13/2014 18:41:32" />
+    <file relUrl="bin/Interfaces.dll" publishTime="06/09/2015 08:54:50" />
+    <file relUrl="bin/log4net.dll" publishTime="11/23/2013 10:04:16" />
+    <file relUrl="bin/eConditionBuilder.dll" publishTime="06/09/2015 08:54:50" />
+    <file relUrl="bin/IDL.dll" publishTime="09/19/2014 03:35:40" />
+    <file relUrl="bin/EpowerWSManagement.dll.lastcodeanalysissucceeded" publishTime="08/18/2015 05:00:38" />
+    <file relUrl="bin/log4net.xml" publishTime="11/23/2013 10:04:16" />
+    <file relUrl="bin/O2S.Components.PDF4NET.dll" publishTime="08/12/2015 05:51:44" />
+    <file relUrl="EpowerWSManagement.ServicioEpower.svc" publishTime="08/25/2020 13:22:06" />
+    <file relUrl="bin/EpowerWSManagement.dll.config" publishTime="08/25/2020 13:04:39" />
+    <file relUrl="bin/IIOPChannel.dll" publishTime="06/09/2015 08:54:48" />
+    <file relUrl="bin/ePWS.dll" publishTime="06/09/2015 08:54:50" />
+    <file relUrl="bin\Log/log.txt" publishTime="08/24/2020 13:48:15" />
+    <file relUrl="bin/EpowerWSManagement.dll" publishTime="08/24/2020 13:23:57" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\inetpub\wwwroot\CCBEpowerWS\">
+    <file relUrl="bin/EpowerWSManagement.dll.config" publishTime="08/17/2020 00:59:24" />
+    <file relUrl="bin/EpowerWSManagement.dll" publishTime="08/23/2020 02:00:18" />
+    <file relUrl="bin/IDL.dll" publishTime="09/19/2014 03:35:40" />
+    <file relUrl="Properties/Settings.Designer.cs" publishTime="08/17/2020 00:59:24" />
+    <file relUrl="bin/O2S.Components.PDF4NET.dll" publishTime="08/12/2015 05:51:44" />
+    <file relUrl="CCBEpowerWS.csproj.user" publishTime="08/23/2020 01:59:55" />
+    <file relUrl="EpowerWSManagement.ServicioEpower.svc" publishTime="08/23/2020 02:00:21" />
+    <file relUrl="bin/log4net.xml" publishTime="11/23/2013 10:04:16" />
+    <file relUrl="bin/log4net.dll" publishTime="11/23/2013 10:04:16" />
+    <file relUrl="bin/EpowerWSManagement.dll.lastcodeanalysissucceeded" publishTime="08/18/2015 05:00:38" />
+    <file relUrl="bin/BitMiracle.LibTiff.NET.dll" publishTime="10/13/2014 18:41:32" />
+    <file relUrl="bin/ewsm.dll" publishTime="06/09/2015 08:54:52" />
+    <file relUrl="bin/EpowerWSManagement.pdb" publishTime="08/23/2020 02:00:18" />
+    <file relUrl="Properties/AssemblyInfo.cs" publishTime="08/13/2020 10:46:04" />
+    <file relUrl="Properties/Settings.settings" publishTime="08/17/2020 00:59:24" />
+    <file relUrl="bin/ePWS.dll" publishTime="06/09/2015 08:54:50" />
+    <file relUrl="Bridge/Ewsm.cs" publishTime="08/17/2020 01:16:46" />
+    <file relUrl="Bridge/Bridge.cs" publishTime="08/17/2020 00:08:44" />
+    <file relUrl="bin/Interfaces.dll" publishTime="06/09/2015 08:54:50" />
+    <file relUrl="bin/Channel.dll" publishTime="06/09/2015 08:54:50" />
+    <file relUrl="CCBEpowerWS.csproj" publishTime="08/17/2020 00:45:44" />
+    <file relUrl="bin/eTree.dll" publishTime="06/09/2015 08:54:48" />
+    <file relUrl="bin/IIOPChannel.dll" publishTime="06/09/2015 08:54:48" />
+    <file relUrl="bin/EpowerWSManagement.dll.CodeAnalysisLog.xml" publishTime="08/18/2015 05:00:38" />
+    <file relUrl="Settings.cs" publishTime="08/17/2020 00:49:46" />
+    <file relUrl="Bitacorizador.cs" publishTime="08/17/2020 00:10:06" />
+    <file relUrl="App.config" publishTime="08/17/2020 00:59:24" />
+    <file relUrl="Web.config" publishTime="08/17/2020 00:59:24" />
+    <file relUrl="packages.config" publishTime="08/13/2015 03:37:34" />
+    <file relUrl="bin\Log/log.txt" publishTime="08/17/2020 12:20:40" />
+    <file relUrl="ServicioEpower.cs" publishTime="08/17/2020 14:26:56" />
+    <file relUrl="Bridge/Global.cs" publishTime="08/16/2020 23:59:34" />
+    <file relUrl="bin/log4.config" publishTime="08/14/2015 09:27:38" />
+    <file relUrl="bin/Oracle.DataAccess.dll" publishTime="12/11/2013 21:27:30" />
+    <file relUrl="bin/eConditionBuilder.dll" publishTime="06/09/2015 08:54:50" />
+    <file relUrl="IServicioEpower.cs" publishTime="08/17/2020 14:26:54" />
+  </publishTarget>
+</publishData>
